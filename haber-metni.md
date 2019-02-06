@@ -4,4 +4,4 @@ Software Craftsmanship Turkey (Türkiye Yazılımda Ustalaşma Hareketi Toplulu�
 
 Mart ayı itibariyle İstanbul'da başlayacak etkinliklere ön kayıt olmak için son tarih 25 Şubattır.
 
-Kadın yazılımcıların çok yoğun ilgi gösterdiği bu programa sponsor olmak, destek vermek, detay öğrenmek ya da sınırlı sayıdaki kontenjana ön kayıt olmak için https://github.com/scturkey/WSCEP adresine gözatılabilir. 
+Kadın yazılımcıların çok yoğun ilgi gösterdiği bu programa sponsor olmak, destek vermek, detay öğrenmek ya da sınırlı sayıdaki kontenjana ön kayıt olmak için https://github.com/scturkey/WSCEP adresine bakabilirsiniz. 
