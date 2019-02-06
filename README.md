@@ -2,7 +2,7 @@
 
 10 hafta sürecek olan bu program [Software Craftsmanship Turkey](https://www.meetup.com/Software-Craftsmanship-Turkey/) tarafından düzenlenmektedir.
 
-Programın ana amacı, erkek egemen sektörümüzde kadın yazılımcıların mesleki gelişmelerini arttırmak, yazılım sektöründe aranan örnek yazılımcılar arasında yer bulmalarına destek olmaktır.
+Programın ana amacı, erkek egemen sektörümüzde kadın yazılımcıların mesleki gelişmelerini arttırabilecekleri yeni ve etkin fırsatlar yaratmak ve yazılım sektöründe aranan örnek yazılımcılar arasında yer bulmalarına destek olmaktır.
 
 Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar gönüllü olarak yer almaktadır.
 
