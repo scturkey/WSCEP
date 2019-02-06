@@ -85,6 +85,10 @@ Yemek, hediye ve lojistik sponsorlarımız yakında duyurulacaktır.
 
 Destekleyen topluluklar yakında duyurulacaktır.
 
+## Sosyal Medyada Duyuru
+
+Program ile ilgili paylaşım yapmak isterseniz, etkinlik hakkında hazırladığımız [haber metnini](haber-metni.md) kullanabilirsiniz.
+
 ## İletişim
 
 Her tür soru, yorum ve öneriniz için [info@scturkey.org](mailto:info@scturkey.org) adresine eposta atabilirsiniz.
