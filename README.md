@@ -4,7 +4,7 @@
 
 Programın ana amacı, erkek egemen sektörümüzde kadın yazılımcıların mesleki gelişmelerini arttırmak, yazılım sektöründe aranan örnek yazılımcılar arasında yer bulmalarına destek olmaktır.
 
-Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar gönüllü olarak yer almaktadır. Tüm lojistik sponsorlar tarafından karşılanmaktadır.
+Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar gönüllü olarak yer almaktadır.
 
 ## Katılım için Koşullar
 
