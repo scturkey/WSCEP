@@ -1,6 +1,6 @@
 # Topluluk Olarak Nasıl Destek Verebilirim?
 
-Eğer bir topluluk ya da bir kuruluş olarak programımıza destek vermek isterseniz, öncelikle **harikasınız, çok teşekkür ederiz.** Destek vermek istemeniz bizlerle aynı hayalleri paylaşıyor olduğunuz anlamına geliyor, ki bu bizi daha da motive ediyor. Omuz omuza ülkemizde kadınlara uygulanan fırsat eşitsizliğine güçlü bir sesle **dur** diyebiliriz. Hep beraber ülkemizin kadın yeteneklerine yazılım geliştiricilik kariyerlerinde mentörlük ve sponsorluk sağlayabiliriz. Teknolojinin ve teknik konuların sadece erkek işi olmadığını, şirketlerde zaman zaman rastladığımız çarpık yönetim anlayışına son vererek ve kadın yazılımcılara ustalaşma yolculuklarında yol göstererek herkese gösterebiliriz.
+Eğer bir topluluk ya da bir kuruluş olarak programımıza destek vermek isterseniz, öncelikle **harikasınız, çok teşekkür ederiz.** Destek vermek istemeniz bizlerle aynı hayalleri paylaşıyor olduğunuz anlamına geliyor, ki bu bizi daha da motive ediyor. Omuz omuza ülkemizde kadınlara uygulanan fırsat eşitsizliğine güçlü bir sesle **dur** diyebiliriz. Hep beraber ülkemizin kadın yeteneklerine yazılım geliştiricilik kariyerlerinde mentörlük ve sponsorluk sağlayabiliriz. Kadın yazılım profesyonellerinin ustalaşma yolculuklarında yeni ve etkin fırsatlar geliştirerek sektörün kanayan yarasına bir nebze faydalı olabiliriz.
 
 Eğer bir topluluk ya da bir kuruluş olarak programımıza destek vermek isterseniz, aklımıza yapabileceğiniz birkaç şey geliyor.
 
