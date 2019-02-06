@@ -85,7 +85,7 @@ Yemek, hediye ve lojistik sponsorlarımız yakında duyurulacaktır.
 
 Bir topluluk ya da bir kuruluş olarak programımızı desteklemeyi düşünüyorsanız, aklımızdakileri "[topluluk olarak nasıl destek olurum?](topluluklar-destek.md)" sayfasında listelemeye çalıştık. Eğer bu alanda önerileriniz varsa duymaktan büyük mutluluk duyarız.
 
-Destekleyen topluluklar yakında duyurulacaktır.
+* [Kadın Bilişimci](https://www.meetup.com/Kad%C4%B1n-Bili%C5%9Fimci/), Kadınların bilişim & teknoloji sektörlerinde daha çok istihdam edilmesi ve cinsiyet eşitliğini yakalamak için çalışan platform 
 
 ## Sosyal Medyada Duyuru
 
