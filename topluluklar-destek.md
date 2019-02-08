@@ -6,9 +6,9 @@ Eğer bir topluluk ya da bir kuruluş olarak programımıza destek vermek isters
 
 1. **Benzer amaçlı bir program düzenlemek**: Siz de bu konuda adımlar atabilir ve kadın yazılımcıların ustalaşma yolculuklarına destek vermek için özel programlar düzenleyebilirsiniz. Eğer düzenlerseniz ya da düzenliyorsanız, biz de tam destek vermek ve kanallarımızdan sektöre duyurmak isteriz.
 2. **Sektördeki farkındalığı arttırmak**: Sizler de kendi etkinliklerinizde sektörümüzdeki fırsat eşitsizliğine değinebilir, halihazırda harika işler başaran kadın yazılım/bilişim topluluklarına destek verebilir, bloglarınızda ya da postlarınızda desteğinizden bahsederek sektör içindeki farkındalığı arttırabilirsiniz.
-3. **Sitemize topluluğunuzu destekçi olarak eklemek**: Programımızı destekleyen kuruluş/topluluklar arasında yer almak ve herkese bunu duyurmak için "topluluk ismi, kısa açıklaması ve varsa websitenize olan bir bağlantıyı" bize info@scturkey.org eposta adresi üzerinden, Github'da pull request açarak, ya da Github'da bir issue açarak bize iletebilirsiniz. Bu sayfalara gururla eklemek isteriz.
-4. **Sponsor olmak**: Etkinlikleri kar amacı gütmeden, tamamı ücretsiz olacak şekilde, günüllülük hesabına göre düzenliyoruz. Tek giderimiz mekan kiraları ve yemek/içecek gibi etkinlik ihtiyaçları. Eğer maddi olarak destek vermek isterseniz, memnuniyet duyarız.
+3. **Sitemize topluluğunuzu destekçi olarak eklemek**: Programımızı destekleyen kuruluş/topluluklar arasında yer almak ve herkese bunu duyurmak için "topluluk ismi, kısa açıklaması ve varsa websitenize olan bir bağlantıyı" bize info@scturkey.org eposta adresi üzerinden, GitHub'da pull request açarak, ya da GitHub'da bir issue açarak bize iletebilirsiniz. Bu sayfalara gururla eklemek isteriz.
+4. **Sponsor olmak**: Etkinlikleri kar amacı gütmeden, tamamı ücretsiz olacak şekilde, gönüllülük hesabına göre düzenliyoruz. Tek giderimiz mekan kiraları ve yemek/içecek gibi etkinlik ihtiyaçları. Eğer maddi olarak destek vermek isterseniz, memnuniyet duyarız.
 
-SCTurkey olarak artık birşeyler yapmamız gerektiğini düşünerek minik bir adım attık. Sektöre hizmet eden topluluk ve kurumlar olarak hepimizin birşeyler yapması zamanı geldi de geçiyor bile. 
+SCTurkey olarak artık bir şeyler yapmamız gerektiğini düşünerek minik bir adım attık. Sektöre hizmet eden topluluk ve kurumlar olarak hepimizin bir şeyler yapması zamanı geldi de geçiyor bile. 
 
 ### Hadi sıra sende, harekete geç. 
