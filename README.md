@@ -32,12 +32,6 @@ Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar g
 
 Kontenjan 30 kişi olarak belirlenmiştir.
 
-## Konuşmacılar
-
-[**Lemi Orhan Ergin**](https://www.linkedin.com/in/lemiorhan) 2001 senesinden bu yana aktif olarak yazılım geliştiren bir bilgisayar mühendisidir. Kariyeri boyunca onlarca kurumsal firmaya danışmanlık vermiş, eBay, Sony ve iyzico'da yazılım mimarı, yazılım ustası, teknik lider, takım lideri, teknik koordinator, Scrum Master ve agile koç olarak görev almıştır. Yazılım takımlarında yazılım kültürün kurulması, devamı ve sürdürülebilirliği konularında liderlik etmiştir. 2018 yılı içerisinde Hakan Erdoğan ve Sabri Onur Tüzün ile birlikte Craftbase’i kurmuştur. Halen sektör için kritik öneme sahip yazılımlar geliştirmeye devam etmektedir.
-
-Türk yazılım topluluklarında aktif olarak yer almaktadır. Software Craftsmanship Turkey (Türk Yazılımda Ustalaşma Hareketi) topluluğunun kurucusudur. Kariyerinde açık ve kapalı 200'den fazla ücretsiz etkinlik organize etmiştir. Dünyaca kabul görmüş Disciplined Agile Manifesto, Software Craftsmanship Manifesto ve SOA Manifesto'yu Türkçeye kazandırmış, Agile Manifesto’yu Türkçeye çeviren takımda yer almıştır. Daha çok kişiye ulaşabilmek için "Lemi’nin Not Defteri” isminde bir Podcast yayınlamaktadır. 3'ü keynote olmak üzere 30’dan fazla yerli ve yabancı konferansta konuşmacı olmuştur. Sunumları internet üzerinden de 1 milyondan fazla izlenmiştir.
-
 ## Takvim
 
 Etkinliklerimizde başlangıç seviyesi konulardan daha ziyade, deneyimler ile derinleşmiş daha ileri teknikler ve konuların konuşulması planlanmaktadır.
@@ -59,6 +53,20 @@ Her hafta (dokuzuncu hafta hariç) en fazla 2 saat sürecektir. (19:00 ile 21:00
 
 Son hafta kapanışta, 10 haftanın asgari 8'ine katılan katılımcılara "**Katılım Sertifikası**" verilecektir.
 
+## Kadın Konuşmacılar
+
+Her etkinliğin son yarım saati, yazılım ve teknoloji alanlarında başarı kazanmış lider kadınlar ile söyleşiler gerçekleştireceğiz. Kendi hikayelerini anlatacaklar ve bizlere deneyimlerini paylaşacaklar. Bu özel bölüm için konuşmacılarımız yavaş yavaş netleşmeye başladı.
+
+[**Neslihan Şirin Saygılı**](https://www.linkedin.com/in/sirinnes) Prisynch'in kurucu ortağı ve yazılım geliştirme yöneticisidir. İTÜ Bilgisayar Mühendisliği bölümünden mezun olup, şu anda doktora yapmaktadır. Temel olarak ilgilendiği alanlar bilgi edinilmesi (information retrieval), verinin işlenmesi (metin sınıflandırma, yazar tespiti) ve bu verinin bilgiye dönüştürülmesidir. Python, Java, PHP, Ubuntu, HTTP yığını, Linux-Apache-MySQL üçlüsü gündelik olarak kullandığım araçlardır. 
+
+[**Elif T. Kuş**](https://www.linkedin.com/in/eliftkus) Safkan Yazılım'ın partneri ve yazılım mühendisidir. Kadın Yazılımcı topluluğunun üyelerindendir. Temelde web uygulamaları ve mobil uygulamalar ile uğraşmıştır. Python, Java, C#, Objective C, Android ve iOs ile kod yazmıştır ve hala yazmaktadır. Lisansında Kimya Mühendisliği okumuştur. Kendi şirketi üstünden proje bazlı çalışmakta ve IT danışmanlığı yapmaktadır. 
+
+## Eğitmen
+
+[**Lemi Orhan Ergin**](https://www.linkedin.com/in/lemiorhan) 2001 senesinden bu yana aktif olarak yazılım geliştiren bir bilgisayar mühendisidir. Kariyeri boyunca onlarca kurumsal firmaya danışmanlık vermiş, eBay, Sony ve iyzico'da yazılım mimarı, yazılım ustası, teknik lider, takım lideri, teknik koordinator, Scrum Master ve agile koç olarak görev almıştır. Yazılım takımlarında yazılım kültürün kurulması, devamı ve sürdürülebilirliği konularında liderlik etmiştir. 2018 yılı içerisinde Hakan Erdoğan ve Sabri Onur Tüzün ile birlikte Craftbase’i kurmuştur. Halen sektör için kritik öneme sahip yazılımlar geliştirmeye devam etmektedir.
+
+Türk yazılım topluluklarında aktif olarak yer almaktadır. Software Craftsmanship Turkey (Türk Yazılımda Ustalaşma Hareketi) topluluğunun kurucusudur. Kariyerinde açık ve kapalı 200'den fazla ücretsiz etkinlik organize etmiştir. Dünyaca kabul görmüş Disciplined Agile Manifesto, Software Craftsmanship Manifesto ve SOA Manifesto'yu Türkçeye kazandırmış, Agile Manifesto’yu Türkçeye çeviren takımda yer almıştır. Daha çok kişiye ulaşabilmek için "Lemi’nin Not Defteri” isminde bir Podcast yayınlamaktadır. 3'ü keynote olmak üzere 30’dan fazla yerli ve yabancı konferansta konuşmacı olmuştur. Sunumları internet üzerinden de 1 milyondan fazla izlenmiştir.
+
 ## Etkinlik Sonrası Görevler
 
 Her hafta etkinlik sonrası, katılımcılardan çalıştıkları ekiplerde rahatça uygulayabilecekleri bazı görevler verilecektir.
@@ -78,8 +86,7 @@ Etkinliklerimiz **Craftbase'in Nidakule Göztepe 10. Kat**ındaki ofisinde gerç
 
 ## Sponsorlar
 
-Mekan sponsorumuz [**Craftbase**](https://craftbase.io)'dir.
-Yemek, hediye ve lojistik sponsorlarımız yakında duyurulacaktır.
+Sponsorlarımız yakında duyurulacaktır.
 
 ## Destekleyen Topluluklar
 
