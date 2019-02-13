@@ -57,9 +57,13 @@ Son hafta kapanışta, 10 haftanın asgari 8'ine katılan katılımcılara "**Ka
 
 Her etkinliğin son yarım saati, yazılım ve teknoloji alanlarında başarı kazanmış lider kadınlar ile söyleşiler gerçekleştireceğiz. Kendi hikayelerini anlatacaklar ve bizlere deneyimlerini paylaşacaklar. Bu özel bölüm için konuşmacılarımız yavaş yavaş netleşmeye başladı.
 
+### Söyleşi Konuşmacılarımız
+
 [**Neslihan Şirin Saygılı**](https://www.linkedin.com/in/sirinnes) Prisync'in kurucu ortağı ve yazılım geliştirme yöneticisidir. İTÜ Bilgisayar Mühendisliği bölümünden mezun olmuştur. Temel olarak ilgilendiği alanlar bilgi edinilmesi (information retrieval), verinin işlenmesi (metin sınıflandırma, yazar tespiti) ve bu verinin bilgiye dönüştürülmesidir. Python, Java, PHP, Ubuntu, HTTP yığını, Linux-Nginx-MySQL üçlüsü gündelik olarak kullandığı araçlardır. 
 
 [**Elif T. Kuş**](https://www.linkedin.com/in/eliftkus) Safkan Yazılım'ın partneri ve yazılım mühendisidir. Kadın Yazılımcı topluluğunun üyelerindendir. Temelde web uygulamaları ve mobil uygulamalar ile uğraşmıştır. Python, Java, C#, Objective C, Android ve iOS ile kod yazmıştır ve hala yazmaktadır. Lisansında Kimya Mühendisliği okumuştur. Kendi şirketi üstünden proje bazlı çalışmakta ve IT danışmanlığı yapmaktadır. 
+
+### Eğitim Konuşmacılarımız
 
 Etkinliklerin ilk bir buçuk saati eğitim ile geçecektir. Eğitmenleri şu şekilde listeleyebiliriz. 
 
