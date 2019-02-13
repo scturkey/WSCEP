@@ -94,8 +94,14 @@ Sponsorlarımız yakında duyurulacaktır.
 
 Bir topluluk ya da bir kuruluş olarak programımızı desteklemeyi düşünüyorsanız, aklımızdakileri "[topluluk olarak nasıl destek olurum?](topluluklar-destek.md)" sayfasında listelemeye çalıştık. Eğer bu alanda önerileriniz varsa duymaktan büyük mutluluk duyarız.
 
+### Ana Destekçilerimiz
+Ana destekçilerimiz etkinlikler boyunca bizimle olacaklar. Katılımcılarımız bu değerli kadın toplulukları ile doğrudan tanışma ve iletişim fırsatı yakalayacaklar.
+
 * [Kadın Bilişimci](https://www.meetup.com/Kad%C4%B1n-Bili%C5%9Fimci)
 * [Kadın Yazılımcı](https://www.kadinyazilimci.com)
+
+### Destekçilerimiz
+
 * [DevNot](http://devnot.com)
 * [Istanbul Jug](https://istanbul-jug.org)
 
