@@ -26,11 +26,11 @@ Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar g
 | Ön kayıt kapanış | 25.02.2019, Pazartesi |
 | Son kayıtların netleşmesi | 01.03.2019, Cuma |
 
-1 Mart 2019 tarihi itibariyle 30 kişilik katılımcı listemiz netleşmiş olacaktır.
+1 Mart 2019 tarihi itibariyle katılımcı listemiz netleşmiş olacaktır.
 
 ## Kontenjan
 
-Kontenjan 30 kişi olarak belirlenmiştir.
+Yoğun ilgi nedeniyle kontenjan 100+ kişi olarak belirlenmiştir.
 
 ## Takvim
 
@@ -79,12 +79,7 @@ Tüm yansılar ve materyaller İngilizce oluşturulmuştur, ancak **konuşma dil
 
 ## Mekan
 
-Etkinliklerimiz **Craftbase'in Nidakule Göztepe 10. Kat**ındaki ofisinde gerçekleşecektir. Mekanın haritadaki yerine [Google Maps](https://goo.gl/maps/cfUZaPFvw7L2) ve [Yandex Maps](https://yandex.com.tr/maps/-/CBR3iUcs0B) üzerinden bakabilir, rota oluşturabilirsiniz.
-
-* **Açık Adres:** Craftbase Bilişim Teknolojileri A.Ş., Nidakule Göztepe, Merdivenköy Mah. Bora Sk. No:1 Kat:10 Göztepe, Kadıköy.
-* **Metro ile ulaşım:** Göztepe Metro durağında inin ve Salı pazarı çıkışından çıkın. Mekan 5 dakika yürüyüş mesafesindedir.
-* **Otobüs ya da minibüs ile ulaşım:** E5 üzerinde yer alan Medical Park Hastanesi durağında inin. Mekan 5 dakika yürüyüş mesafesindedir.
-* **Kişisel arabanız ile ulaşım:** Nidakule Göztepe'nin misafir otoparkı bulunmaktadır.
+Yoğun ilgi nedeniyle katılımcı kontenjanımızı 100+ kişiye arttırmaya karar verdik. Bu nedenle etkinliklerimizi daha geniş bir mekanda gerçekleştireceğiz. Mekan sponsorumuz yakında duyurulacaktır. 
 
 ## Sponsorlar
 
