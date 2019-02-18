@@ -44,8 +44,8 @@ Etkinliklerimizde başlangıç seviyesi konulardan daha ziyade, deneyimler ile d
 | Hafta 4  | 01.04.2019, Pazartesi | Ekipler için Yazılım Geliştirme Kültürü |
 | Hafta 5  | 08.04.2019, Pazartesi | Pair Programming & Code Review |
 | Hafta 6  | 15.04.2019, Pazartesi | Profesyoneller için Git  |
-| Hafta 7  | 22.04.2019, Pazartesi | Temiz Kod Tasarım Pratikleri |
-| Hafta 8  | 29.04.2019, Pazartesi | TDD, Automated Testing, TDD Atölyesi |
+| Hafta 7  | 29.04.2019, Pazartesi | Temiz Kod Tasarım Pratikleri |
+| Hafta 8  | 06.05.2019, Pazartesi | TDD, Automated Testing, TDD Atölyesi |
 | Hafta 9  | 11.05.2019, Cumartesi | Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat |
 | Hafta 10 | 20.05.2019, Pazartesi | Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İpuçları |
 
