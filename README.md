@@ -92,6 +92,8 @@ Programımızın 9. haftasında tüm gün TDD atölyesi gerçekleştireceğiz. B
 * Mekan Sponsorlarımız: [**Microsoft**](https://www.microsoft.com/tr-tr/)
 * Etkinlik Sponsorlarımız: [**Craftbase**](https://craftbase.io)
 
+Yeni sponsorlarımız yakında burada duyurulacaktır.
+
 ## Destekleyen Topluluklar
 
 Bir topluluk ya da bir kuruluş olarak programımızı desteklemeyi düşünüyorsanız, aklımızdakileri "[topluluk olarak nasıl destek olurum?](topluluklar-destek.md)" sayfasında listelemeye çalıştık. Eğer bu alanda önerileriniz varsa duymaktan büyük mutluluk duyarız.
