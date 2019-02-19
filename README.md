@@ -131,3 +131,7 @@ Program ile ilgili paylaşım yapmak isterseniz, etkinlik hakkında hazırladı�
 ## İletişim
 
 Her tür soru, yorum ve öneriniz için [info@scturkey.org](mailto:info@scturkey.org) adresine e-posta atabilirsiniz.
+
+## Duyurular
+
+Tüm duyurular [SCTurkey'in Twitter hesabından](https://twitter.com/scturkey) gerçekleşecek. Hesabımızı takip edebilirsiniz.
