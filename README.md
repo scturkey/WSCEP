@@ -65,6 +65,21 @@ Her etkinliğin son yarım saati, yazılım ve teknoloji alanlarında başarı k
 
 [**Büşra Deniz Akın**](https://www.linkedin.com/in/busradeniz/) Londra merkezli çalışan, kaliteli yazılım geliştirmeye meraklı bir yazılım mühendisidir. Şu anda, App Business'ta Android geliştiricisi olarak çalışmaktadır. Google Geliştirici Grubu ve Kadın Teknoloji Mühendisleri Londra topluluklarında eş organizatör olmanın yanı sıra, gönüllü olarak teknoloji etkinlikleri düzenlemekte ve geliştirici konferanslarında konuşmaktadır. Etkinlikler yoluyla bilgi paylaşmanın ve insanlarla işbirliği yapmanın inovasyon ve yeni bakış açıları getireceğine inanmaktadır.
 
+| Hafta | Tarih | Söyleşi Konuşmacı |
+|:--- |:--- |:--- |
+| Hafta 1  | 04.03.2019, Pazartesi | Neslihan Şirin Saygılı |
+| Hafta 2  | 11.03.2019, Pazartesi |  |
+| Hafta 3  | 25.03.2019, Pazartesi | Büşra Deniz Akın |
+| Hafta 4  | 01.04.2019, Pazartesi |  |
+| Hafta 5  | 08.04.2019, Pazartesi |  |
+| Hafta 6  | 15.04.2019, Pazartesi |  |
+| Hafta 7  | 29.04.2019, Pazartesi |  |
+| Hafta 8  | 06.05.2019, Pazartesi |  |
+| Hafta 9  | 11.05.2019, Cumartesi |  |
+| Hafta 10 | 20.05.2019, Pazartesi |  |
+
+Söyleşiler etkinliklerin son 40 dakikası gerçekleşecektir. Yeni konuşmacılarımız önümüzdeki günlerde duyurulacaktır.
+
 ### Eğitim Konuşmacılarımız
 
 Etkinliklerin ilk bir buçuk saati eğitim ile geçecektir. Eğitmenleri şu şekilde listeleyebiliriz. 
