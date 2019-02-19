@@ -30,7 +30,7 @@ Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar g
 
 ## Kontenjan
 
-Yoğun ilgi nedeniyle kontenjan 100+ kişi olarak belirlenmiştir.
+Yoğun ilgi nedeniyle kontenjan **140 kişi** olarak belirlenmiştir.
 
 ## Takvim
 
@@ -63,6 +63,8 @@ Her etkinliğin son yarım saati, yazılım ve teknoloji alanlarında başarı k
 
 [**Elif T. Kuş**](https://www.linkedin.com/in/eliftkus) Safkan Yazılım'ın partneri ve yazılım mühendisidir. Kadın Yazılımcı topluluğunun üyelerindendir. Temelde web uygulamaları ve mobil uygulamalar ile uğraşmıştır. Python, Java, C#, Objective C, Android ve iOS ile kod yazmıştır ve hala yazmaktadır. Lisansında Kimya Mühendisliği okumuştur. Kendi şirketi üstünden proje bazlı çalışmakta ve IT danışmanlığı yapmaktadır. 
 
+[**Büşra Deniz Akın**](https://www.linkedin.com/in/busradeniz/) Londra merkezli çalışan, kaliteli yazılım geliştirmeye meraklı bir yazılım mühendisidir. Şu anda, App Business'ta Android geliştiricisi olarak çalışmaktadır. Google Geliştirici Grubu ve Kadın Teknoloji Mühendisleri Londra topluluklarında eş organizatör olmanın yanı sıra, gönüllü olarak teknoloji etkinlikleri düzenlemekte ve geliştirici konferanslarında konuşmaktadır. Etkinlikler yoluyla bilgi paylaşmanın ve insanlarla işbirliği yapmanın inovasyon ve yeni bakış açıları getireceğine inanmaktadır.
+
 ### Eğitim Konuşmacılarımız
 
 Etkinliklerin ilk bir buçuk saati eğitim ile geçecektir. Eğitmenleri şu şekilde listeleyebiliriz. 
@@ -79,11 +81,16 @@ Tüm yansılar ve materyaller İngilizce oluşturulmuştur, ancak **konuşma dil
 
 ## Mekan
 
-Yoğun ilgi nedeniyle katılımcı kontenjanımızı 100+ kişiye arttırmaya karar verdik. Bu nedenle etkinliklerimizi daha geniş bir mekanda gerçekleştireceğiz. Mekan sponsorumuz yakında duyurulacaktır. 
+Etkinliklerimizin 9. hafta hariç tümünü **Microsoft Türkiye ofisi, Levent**de, Jupiter salonunda gerçekleştireceğiz. [Google Harita](https://goo.gl/maps/Le9j5QihZz62) ve [Yandex Harita](https://yandex.com.tr/harita/-/CCQIq49j) üzerinden harita bilgilerine, [Moovit](https://moovitapp.com/index/tr/toplu_ta%C5%9F%C4%B1ma-Microsoft_Turkiye-Istanbul-site_7350239-1563) üzerinden toplu taşıma araçları ile ulaşım bilgilerine erişebilirsiniz.
+
+**Açık Adres:** Microsoft Türkiye Ofisi, Bellevue Residence, Levent Mahallesi, Aydın Sokak No: 7, Levent, Istanbul 
+
+Programımızın 9. haftasında tüm gün TDD atölyesi gerçekleştireceğiz. Bu etkinliğin mekan bilgisi yakında paylaşılacaktır. 
 
 ## Sponsorlar
 
-Sponsorlarımız yakında duyurulacaktır.
+* Mekan Sponsorlarımız: [**Microsoft**](https://www.microsoft.com/tr-tr/)
+* Etkinlik Sponsorlarımız: [**Craftbase**](https://craftbase.io)
 
 ## Destekleyen Topluluklar
 
