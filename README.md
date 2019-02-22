@@ -1,6 +1,6 @@
 # SCTurkey Kadın Yazılımcı Destekleme Programı, Sezon 1
 
-10 hafta sürecek olan bu program [Software Craftsmanship Turkey](https://www.meetup.com/Software-Craftsmanship-Turkey/) tarafından düzenlenmektedir.
+10 etkinlikten oluşan bu program [Software Craftsmanship Turkey](https://www.meetup.com/Software-Craftsmanship-Turkey/) tarafından düzenlenmektedir.
 
 Programın ana amacı, erkek egemen sektörümüzde kadın yazılımcıların mesleki gelişmelerini arttırabilecekleri yeni ve etkin fırsatlar yaratmak ve yazılım sektöründe aranan örnek yazılımcılar arasında yer bulmalarına destek olmaktır.
 
@@ -12,7 +12,7 @@ Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar g
 * Tüm katılımcılar gündelik iş hayatlarında aktif olarak yazılım geliştiriyor olmalıdır.
 * Üniversite mezun olma kısıtlaması bulunmamaktadır ancak katılımcılardan aktif olarak yazılım geliştiricilik yapması beklenmektedir.
 * Programlama dili ya da iş kapsamı konularında herhangi bir kısıtlama bulunmamaktadır.
-* Hafta 8 ve 9'da gerçekleşecek etkinlikler için kişisel bilgisayarlarınızı getirmeniz gerekmektedir.
+* Atölye şeklinde gerçekleşecek etkinlikler için kişisel bilgisayarlarınızı getirmeniz gerekmektedir.
 
 ## Ön Kayıt
 
@@ -26,7 +26,7 @@ Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar g
 | Ön kayıt kapanış | 25.02.2019, Pazartesi |
 | Son kayıtların netleşmesi | 01.03.2019, Cuma |
 
-1 Mart 2019 tarihi itibariyle katılımcı listemiz netleşmiş olacaktır.
+1 Mart 2019 tarihi itibariyle katılımcı listemiz netleşmiş ve sizler ile iletişim kurulmuş olacaktır.
 
 ## Kontenjan
 
@@ -36,26 +36,26 @@ Yoğun ilgi nedeniyle kontenjan **140 kişi** olarak belirlenmiştir.
 
 Etkinliklerimizde başlangıç seviyesi konulardan daha ziyade, deneyimler ile derinleşmiş daha ileri teknikler ve konuların konuşulması planlanmaktadır.
 
-| Hafta | Tarih | Konu |
-|:--- |:--- |:--- |
-| Hafta 1  | 04.03.2019, Pazartesi | Software Craftsmanship, Agile & Scrum |
-| Hafta 2  | 11.03.2019, Pazartesi | Yazılım Geliştirmede Etik ve Profesyonellik |
-| Hafta 3  | 25.03.2019, Pazartesi | Yazılım Geliştirmede Çöp Kavramı ve Temizleme Yöntemleri |
-| Hafta 4  | 01.04.2019, Pazartesi | Ekipler için Yazılım Geliştirme Kültürü |
-| Hafta 5  | 08.04.2019, Pazartesi | Pair Programming & Code Review |
-| Hafta 6  | 15.04.2019, Pazartesi | Profesyoneller için Git  |
-| Hafta 7  | 29.04.2019, Pazartesi | Temiz Kod Tasarım Pratikleri |
-| Hafta 8  | 06.05.2019, Pazartesi | TDD, Automated Testing, TDD Atölyesi |
-| Hafta 9  | 11.05.2019, Cumartesi | Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat |
-| Hafta 10 | 20.05.2019, Pazartesi | Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İpuçları |
+| No | Tarih | Konu | Mekan | Saat |
+|:--- |:--- |:--- |:--- |:--- | 
+| 1  | 04.03.2019, Pazartesi | Software Craftsmanship, Agile & Scrum | Microsoft | 19:00-21:30 |
+| 2  | 11.03.2019, Pazartesi | Yazılım Geliştirmede Etik ve Profesyonellik | Microsoft | 19:00-21:30 |
+| 3  | 19.03.2019, Salı | Yazılım Geliştirmede Çöp Kavramı ve Temizleme Yöntemleri | Microsoft | 19:00-21:30 |
+| 4  | 25.03.2019, Pazartesi | Ekipler için Yazılım Geliştirme Kültürü | Microsoft | 19:00-21:30 |
+| 5  | 01.04.2019, Pazartesi  | TDD, Automated Testing, TDD Atölyesi | Microsoft | 19:00-21:30 |
+| 6  | 06/20.04.2019, Cumartesi | Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat | Açıklanacak | 09:30-16:30 |
+| 7  | 08.04.2019, Pazartesi | Pair Programming & Code Review | Microsoft | 19:00-21:30 |
+| 8  | 11.04.2019, Perşembe | Temiz Kod Tasarım Pratikleri | Microsoft | 19:00-21:30 |
+| 9  | 15.04.2019, Pazartesi | Profesyoneller için Git  | Microsoft | 19:00-21:30 |
+| 10 | 29.04.2019, Pazartesi | Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İpuçları | Microsoft | 19:00-21:30 |
 
-Her hafta (dokuzuncu hafta hariç) en fazla 2 saat sürecektir. (19:00 ile 21:00 saatleri arası)
+6. etkinlik olarak görünen Coderetreat katılım durumuna göre 2 seans halinde gerçekleşecektir. 
 
-Son hafta kapanışta, 10 haftanın asgari 8'ine katılan katılımcılara "**Katılım Sertifikası**" verilecektir.
+Son etkinlik kapanışta, 10 etkinliğin asgari 8'ine katılan katılımcılara "**Katılım Sertifikası**" verilecektir.
 
 ## Konuşmacılar
 
-Her etkinliğin son yarım saati, yazılım ve teknoloji alanlarında başarı kazanmış lider kadınlar ile söyleşiler gerçekleştireceğiz. Kendi hikayelerini anlatacaklar ve bizlere deneyimlerini paylaşacaklar. Bu özel bölüm için konuşmacılarımız yavaş yavaş netleşmeye başladı.
+Her etkinliğin son 40 dakikası, yazılım ve teknoloji alanlarında başarı kazanmış lider kadınlar ile söyleşiler gerçekleştireceğiz. Kendi hikayelerini anlatacaklar ve bizlere deneyimlerini paylaşacaklar. Bu özel bölüm için konuşmacılarımız yavaş yavaş netleşmeye başladı.
 
 ### Söyleşi Konuşmacılarımız
 
@@ -65,18 +65,18 @@ Her etkinliğin son yarım saati, yazılım ve teknoloji alanlarında başarı k
 
 [**Büşra Deniz Akın**](https://www.linkedin.com/in/busradeniz/) Londra merkezli çalışan, kaliteli yazılım geliştirmeye meraklı bir yazılım mühendisidir. Şu anda, App Business'ta Android geliştiricisi olarak çalışmaktadır. Google Geliştirici Grubu ve Kadın Teknoloji Mühendisleri Londra topluluklarında eş organizatör olmanın yanı sıra, gönüllü olarak teknoloji etkinlikleri düzenlemekte ve geliştirici konferanslarında konuşmaktadır. Etkinlikler yoluyla bilgi paylaşmanın ve insanlarla işbirliği yapmanın inovasyon ve yeni bakış açıları getireceğine inanmaktadır.
 
-| Hafta | Tarih | Söyleşi Konuşmacı |
+| No | Tarih | Söyleşi Konuşmacı |
 |:--- |:--- |:--- |
-| Hafta 1  | 04.03.2019, Pazartesi | Neslihan Şirin Saygılı |
-| Hafta 2  | 11.03.2019, Pazartesi |  |
-| Hafta 3  | 25.03.2019, Pazartesi | Büşra Deniz Akın |
-| Hafta 4  | 01.04.2019, Pazartesi |  |
-| Hafta 5  | 08.04.2019, Pazartesi |  |
-| Hafta 6  | 15.04.2019, Pazartesi |  |
-| Hafta 7  | 29.04.2019, Pazartesi |  |
-| Hafta 8  | 06.05.2019, Pazartesi |  |
-| Hafta 9  | 11.05.2019, Cumartesi |  |
-| Hafta 10 | 20.05.2019, Pazartesi |  |
+| 1  | 04.03.2019, Pazartesi | Neslihan Şirin Saygılı |
+| 2  | 11.03.2019, Pazartesi |  |
+| 3  | 19.03.2019, Salı | Elif T. Kuş |
+| 4  | 25.03.2019, Pazartesi | Büşra Deniz Akın |
+| 5  | 01.04.2019, Pazartesi |  |
+| 6  | 06/20.04.2019, Cumartesi |  |
+| 7  | 08.04.2019, Pazartesi |  |
+| 8  | 15.04.2019, Pazartesi |  |
+| 9  | 22.04.2019, Pazartesi |  |
+| 10 | 29.04.2019, Pazartesi |  |
 
 Söyleşiler etkinliklerin son 40 dakikası gerçekleşecektir. Yeni konuşmacılarımız önümüzdeki günlerde duyurulacaktır.
 
@@ -88,7 +88,7 @@ Etkinliklerin ilk bir buçuk saati eğitim ile geçecektir. Eğitmenleri şu şe
 
 ## Etkinlik Sonrası Görevler
 
-Her hafta etkinlik sonrası, katılımcılardan çalıştıkları ekiplerde rahatça uygulayabilecekleri bazı görevler verilecektir.
+Her etkinlik sonrası, katılımcılardan çalıştıkları ekiplerde rahatça uygulayabilecekleri bazı görevler verilecektir.
 
 ## Etkinlik Dili
 
@@ -96,16 +96,15 @@ Tüm yansılar ve materyaller İngilizce oluşturulmuştur, ancak **konuşma dil
 
 ## Mekan
 
-Etkinliklerimizin 9. hafta hariç tümünü **Microsoft Türkiye ofisi, Levent**de, Jupiter salonunda gerçekleştireceğiz. [Google Harita](https://goo.gl/maps/Le9j5QihZz62) ve [Yandex Harita](https://yandex.com.tr/harita/-/CCQIq49j) üzerinden harita bilgilerine, [Moovit](https://moovitapp.com/index/tr/toplu_ta%C5%9F%C4%B1ma-Microsoft_Turkiye-Istanbul-site_7350239-1563) üzerinden toplu taşıma araçları ile ulaşım bilgilerine erişebilirsiniz.
+Etkinliklerimizin Coderetreat aötlyeleri hariç tümünü **Microsoft Türkiye ofisi, Levent**de, Jupiter salonunda gerçekleştireceğiz. [Google Harita](https://goo.gl/maps/Le9j5QihZz62) ve [Yandex Harita](https://yandex.com.tr/harita/-/CCQIq49j) üzerinden harita bilgilerine, [Moovit](https://moovitapp.com/index/tr/toplu_ta%C5%9F%C4%B1ma-Microsoft_Turkiye-Istanbul-site_7350239-1563) üzerinden toplu taşıma araçları ile ulaşım bilgilerine erişebilirsiniz.
 
 **Açık Adres:** Microsoft Türkiye Ofisi, Bellevue Residence, Levent Mahallesi, Aydın Sokak No: 7, Levent, Istanbul 
-
-Programımızın 9. haftasında tüm gün TDD atölyesi gerçekleştireceğiz. Bu etkinliğin mekan bilgisi yakında paylaşılacaktır. 
 
 ## Sponsorlar
 
 * Mekan Sponsorlarımız: [**Microsoft**](https://www.microsoft.com/tr-tr/)
 * Etkinlik Sponsorlarımız: [**Craftbase**](https://craftbase.io)
+* Media Sponsorumuz: [**Sherpa Blog**](https://sherpa.blog)
 
 Yeni sponsorlarımız yakında burada duyurulacaktır.
 
