@@ -49,7 +49,7 @@ Etkinliklerimizde başlangıç seviyesi konulardan daha ziyade, deneyimler ile d
 | 9  | 15.04.2019, Pazartesi | Profesyoneller için Git  | Microsoft | 19:00-21:30 |
 | 10 | 29.04.2019, Pazartesi | Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İpuçları | Microsoft | 19:00-21:30 |
 
-6. etkinlik olarak görünen Coderetreat katılım durumuna göre 2 seans halinde gerçekleşecektir. 
+Coderetreat atölyesi katılım durumuna göre 2 seans halinde gerçekleşecektir. 
 
 Son etkinlik kapanışta, 10 etkinliğin asgari 8'ine katılan katılımcılara "**Katılım Sertifikası**" verilecektir.
 
