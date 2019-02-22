@@ -43,7 +43,7 @@ Etkinliklerimizde başlangıç seviyesi konulardan daha ziyade, deneyimler ile d
 | 3  | 19.03.2019, Salı | Yazılım Geliştirmede Çöp Kavramı ve Temizleme Yöntemleri | Microsoft | 19:00-21:30 |
 | 4  | 25.03.2019, Pazartesi | Ekipler için Yazılım Geliştirme Kültürü | Microsoft | 19:00-21:30 |
 | 5  | 01.04.2019, Pazartesi  | TDD, Automated Testing, TDD Atölyesi | Microsoft | 19:00-21:30 |
-| 6  | 06/20.04.2019, Cumartesi | Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat | Açıklanacak | 09:30-16:30 |
+| 6  | 06.04.2019, Cumartesi / 20.04.2019, Cumartesi | Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat | Açıklanacak | 09:30-16:30 |
 | 7  | 08.04.2019, Pazartesi | Pair Programming & Code Review | Microsoft | 19:00-21:30 |
 | 8  | 11.04.2019, Perşembe | Temiz Kod Tasarım Pratikleri | Microsoft | 19:00-21:30 |
 | 9  | 15.04.2019, Pazartesi | Profesyoneller için Git  | Microsoft | 19:00-21:30 |
