@@ -65,6 +65,8 @@ Her etkinliğin son 40 dakikası, yazılım ve teknoloji alanlarında başarı k
 
 [**Büşra Deniz Akın**](https://www.linkedin.com/in/busradeniz/) Londra merkezli çalışan, kaliteli yazılım geliştirmeye meraklı bir yazılım mühendisidir. Şu anda, App Business'ta Android geliştiricisi olarak çalışmaktadır. Google Geliştirici Grubu ve Kadın Teknoloji Mühendisleri Londra topluluklarında eş organizatör olmanın yanı sıra, gönüllü olarak teknoloji etkinlikleri düzenlemekte ve geliştirici konferanslarında konuşmaktadır. Etkinlikler yoluyla bilgi paylaşmanın ve insanlarla işbirliği yapmanın inovasyon ve yeni bakış açıları getireceğine inanmaktadır.
 
+[**Pınar Yanardağ**](https://www.linkedin.com/in/pinguar/) doktorasını Purdue Üniversitesi Bilgisayar Mühendisliği bölümünde Fulbright Ph.D. bursu ve Google Anita Borg bursu ile yapmıştır. Şu anda MIT Media Lab'da post-doc yapmaktadır. Geçmişte Pardus GNU/Linux projesi kapsamında TUBITAK UEKAE güvenlik ekibi lideri, floss geliştiricisi, ve Google Summer of Code'un danışmanı olarak çalışmıştır. Boğaziçi Üniversitesi Bilgisayar Mühendisliğinden yüksek lisans derecesine sahiptir.
+
 | No | Tarih | Söyleşi Konuşmacı |
 |:--- |:--- |:--- |
 | 1  | 04.03.2019, Pazartesi | Neslihan Şirin Saygılı |
