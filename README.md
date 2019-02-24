@@ -107,11 +107,9 @@ Spn etkinliğimizde kapanış ve sertifika töreni de gerçekleşecektir.
 
 Son etkinlik kapanışta, 10 etkinliğin asgari 8'ine katılan katılımcılara "**Katılım Sertifikası**" verilecektir.
 
-## Konuşmacılar
+## Söyleşi Konuşmacılarımız
 
 Her etkinliğin son 40 dakikası, yazılım ve teknoloji alanlarında başarı kazanmış lider kadınlar ile söyleşiler gerçekleştireceğiz. Kendi hikayelerini anlatacaklar ve bizlere deneyimlerini paylaşacaklar. Bu özel bölüm için konuşmacılarımız yavaş yavaş netleşmeye başladı.
-
-### Söyleşi Konuşmacılarımız
 
 ### [Neslihan Şirin Saygılı](https://www.linkedin.com/in/sirinnes) 
 Prisync'in kurucu ortağı ve yazılım geliştirme yöneticisidir. İTÜ Bilgisayar Mühendisliği bölümünden mezun olmuştur. Temel olarak ilgilendiği alanlar bilgi edinilmesi (information retrieval), verinin işlenmesi (metin sınıflandırma, yazar tespiti) ve bu verinin bilgiye dönüştürülmesidir. Python, Java, PHP, Ubuntu, HTTP yığını, Linux-Nginx-MySQL üçlüsü gündelik olarak kullandığı araçlardır. 
@@ -143,7 +141,7 @@ Doktorasını Purdue Üniversitesi Bilgisayar Mühendisliği bölümünde Fulbri
 
 Söyleşiler etkinliklerin son 40 dakikası gerçekleşecektir. Yeni konuşmacılarımız önümüzdeki günlerde duyurulacaktır.
 
-### Eğitim Konuşmacılarımız
+### Eğitim Konuşmacımız
 
 Etkinliklerin ilk bir buçuk saati eğitim ile geçecektir. Eğitmenleri şu şekilde listeleyebiliriz. 
 
