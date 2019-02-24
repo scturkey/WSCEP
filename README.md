@@ -38,39 +38,39 @@ Etkinliklerimizde başlangıç seviyesi konulardan daha ziyade, deneyimler ile d
 
 | No | Tarih | Konu | Yer | Saat |
 | --- | --- | --- | --- | --- |
-| 1  | 04.03.2019, Pazartesi | Agile & Scrum: Çevik Olmak Neden Bu Kadar Zor? | Microsoft | 19:00-21:30 |
-| 2  | 11.03.2019, Pazartesi | Software Craftsmanship: Yazılım Geliştirmede Etik ve Profesyonellik | Microsoft | 19:00-21:30 |
-| 3  | 19.03.2019, Salı | Yazılım Geliştirmede Çöp Kavramı ve Temizleme Yöntemleri | Microsoft | 19:00-21:30 |
-| 4  | 25.03.2019, Pazartesi | Yazılım Ekipleri için Yazılım Geliştirme Kültürü | Microsoft | 19:00-21:30 |
-| 5  | 01.04.2019, Pazartesi  | TDD, Automated Testing, Canlı TDD Deneyimi | Microsoft | 19:00-21:30 |
-| 6  | 06.04.2019, Cumartesi / 20.04.2019, Cumartesi | Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat | Açıklanacak | 09:30-16:30 |
-| 7  | 08.04.2019, Pazartesi | Pair Programming & Code Review: Yazılım Ustasının El Kitabı | Microsoft | 19:00-21:30 |
-| 8  | 11.04.2019, Perşembe | Temiz Kod Tasarım Pratikleri | Microsoft | 19:00-21:30 |
-| 9  | 15.04.2019, Pazartesi | Profesyoneller için Git  | Microsoft | 19:00-21:30 |
-| 10 | 29.04.2019, Pazartesi | Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İpuçları | Microsoft | 19:00-21:30 |
+| 1  | 04.03.2019, Pazartesi | [Agile & Scrum: Çevik Olmak Neden Bu Kadar Zor?](#etkinlik-1-agile--scrum-%C3%A7evik-olmak-neden-bu-kadar-zor) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
+| 2  | 11.03.2019, Pazartesi | [Software Craftsmanship: Yazılım Geliştirmede Etik ve Profesyonellik](#etkinlik-2-software-craftsmanship-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirmede-etik-ve-profesyonellik) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
+| 3  | 19.03.2019, Salı | [Yazılım Geliştirmede Çöp Kavramı ve Temizleme Yöntemleri](#etkinlik-3-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirmede-%C3%A7%C3%B6p-kavram%C4%B1-ve-temizleme-y%C3%B6ntemleri) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
+| 4  | 25.03.2019, Pazartesi | [Yazılım Ekipleri için Yazılım Geliştirme Kültürü](#etkinlik-4-yaz%C4%B1l%C4%B1m-ekipleri-i%C3%A7in-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirme-k%C3%BClt%C3%BCr%C3%BC) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
+| 5  | 01.04.2019, Pazartesi  | [TDD, Automated Testing, Canlı TDD Deneyimi](#etkinlik-5-tdd-automated-testing-canl%C4%B1-tdd-deneyimi) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
+| 6  | 06.04.2019, Cumartesi / 20.04.2019, Cumartesi | [Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat](#etkinlik-6-t%C3%BCm-g%C3%BCn-s%C3%BCrecek-tdd-ve-e%C5%9Fli-programlama-at%C3%B6lyesi-code-retreat) | Açıklanacak | 09:30-16:30 |
+| 7  | 08.04.2019, Pazartesi | [Pair Programming & Code Review: Yazılım Ustasının El Kitabı](#etkinlik-7-pair-programming--code-review-yaz%C4%B1l%C4%B1m-ustas%C4%B1n%C4%B1n-el-kitab%C4%B1) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
+| 8  | 11.04.2019, Perşembe | [Temiz Kod Tasarım Pratikleri](#etkinlik-8-temiz-kod-tasar%C4%B1m-pratikleri) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
+| 9  | 15.04.2019, Pazartesi | [Profesyoneller için Git](#etkinlik-9-profesyoneller-i%C3%A7in-git)  | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
+| 10 | 29.04.2019, Pazartesi | [Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İpuçları](#etkinlik-10-yaz%C4%B1l%C4%B1mc%C4%B1lar-i%C3%A7in-topluluk-%C3%B6n%C3%BCnde-konu%C5%9Fma-ve-sunum-haz%C4%B1rlaman%C4%B1n-ipu%C3%A7lar%C4%B1) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
 
 ### Etkinlik 1. Agile & Scrum: Çevik Olmak Neden Bu Kadar Zor?
-**Yer:** Microsoft **Tarih:** 04.03.2019, Pazartesi **Saat:** 19:00 - 21:30
+**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 04.03.2019, Pazartesi **Saat:** 19:00 - 21:30
 
 Bu etkinlikte çeviklik kavramından, startup ve kurumsal dünyadaki farklılıklarından, yazılım doğasına yaklaşımından ve sıkça içine düşülen yanlışlardan bahsedilecek. Scrum çerçevesinin çevikliğe olan etkisine, pratikte yapılması ve yapılmaması gerekenlere de değinilecek. Özellikle yazılımcı olarak bizi bekleyen zihinyet değişiminin yapıtaşları ile deneyimlerimiz aktarılacak.
 
 ### Etkinlik 2. Software Craftsmanship: Yazılım Geliştirmede Etik ve Profesyonellik
-**Yer:** Microsoft **Tarih:** 11.03.2019, Pazartesi **Saat:** 19:00 - 21:30
+**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 11.03.2019, Pazartesi **Saat:** 19:00 - 21:30
 
 Bu etkinlikte yazılım geliştirmede etik ve profesyonellik kavramlarından bahsedilecek. Yazılım dünyasında unutulmaması gereken etik kuralları, bir meslek olarak yazılım geliştirme ve yazılımda ustalaşma yolculuğuna nasıl çıkabileceğimiz işlenecek konular arasında.
 
 ### Etkinlik 3. Yazılım Geliştirmede Çöp Kavramı ve Temizleme Yöntemleri
-**Yer:** Microsoft **Tarih:** 19.03.2019, Salı **Saat:** 19:00 - 21:30
+**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 19.03.2019, Salı **Saat:** 19:00 - 21:30
 
 Yazılım geliştirirken hemen hemen her anda çöp üretiyoruz, ya da çöplerin içinde geliştirme yapıyoruz. Çalışma hayatından ayrılamaz bir kavram olan çöp kavramını, tespit edilerek verimli bir şekilde temizlenemesi için en ince detaylarına dek etkinliğimizde tartışacağız. 
 
 ### Etkinlik 4. Yazılım Ekipleri için Yazılım Geliştirme Kültürü
-**Yer:** Microsoft **Tarih:** 25.03.2019, Pazartesi **Saat:** 19:00 - 21:30
+**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 25.03.2019, Pazartesi **Saat:** 19:00 - 21:30
 
 Yazılım geliştirmek başlı başına bir ekip işidir. Ekipler sadece üretim yapmazlar. Beraberlerinde bir kültür de oluştururlar. Yazılımın başarısı, çalışanların ve müşterinin memnuniyeti de bu kültür ile doğrudan ilişkilidir. Bu etkinlikte şirketinizde ve ekibinizde yazılım geliştirme kültürü nasıl olmalı, nelere dikkate etmek gerekir, hangi noktalarda harekete geçebilirizi tartışacağız.
 
 ### Etkinlik 5. TDD, Automated Testing, Canlı TDD Deneyimi
-**Yer:** Microsoft **Tarih:** 01.04.2019, Pazartesi **Saat:** 19:00 - 21:30
+**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 01.04.2019, Pazartesi **Saat:** 19:00 - 21:30
 
 Bu etkinliğimizde TDD, Automated Testing ve CI/CD süreçlerinden bahsedilecek. Akabinde bir kod kata ile TDD deneyimi yaşayacağız. Kod katayı canlı kodlama ile hep beraber yazacağız. Bilgisayarınızı getirmenize gerek yoktur.
 
@@ -82,24 +82,26 @@ Bu etkinliğimizde TDD, Automated Testing ve CI/CD süreçlerinden bahsedilecek.
 Coderetreat atölyesi katılım durumuna göre 2 seans halinde gerçekleşecektir. Seanslardan birine katılmak kafidir. Bu etkinlikte bilgisayarınızı yanınızda getirmelisiniz. Tüm gün boyunca TDD ve eşli programlama ile bir oyun yazacağız. Birbirinden ilginç kısıtlamalar ile kod tasarımında farklı bakış açıları getirmeye çalışacağız.
 
 ### Etkinlik 7. Pair Programming & Code Review: Yazılım Ustasının El Kitabı
-**Yer:** Microsoft **Tarih:** 08.04.2019, Pazartesi **Saat:** 19:00 - 21:30
+**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 08.04.2019, Pazartesi **Saat:** 19:00 - 21:30
 
 Eşli programlama ve kod inceleme, yazılım süreçleri içerisinde yer alan, sosyal beceri isteyen, kaliteye doğrudan etki edebilen, deneyimler ile ustalaşabilen çok özel pratiklerdir. Bu pratiklere senelerini veren konuşmacılarımız tüm deneyimlerini katılımcılarımız ile paylaşacaklar.
 
 ### Etkinlik 8. Temiz Kod Tasarım Pratikleri
-**Yer:** Microsoft **Tarih:** 11.04.2019, Perşembe **Saat:** 19:00 - 21:30
+**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 11.04.2019, Perşembe **Saat:** 19:00 - 21:30
 
 Yazılımcıların başını ağrıtan belki de en büyük sorun yazılım kalitesinin düşük olmasıdır. Yazılımı kaliteli yapan şeylerin başında temiz olması gelir. Bu etkinlikte hem mimari hem de kod açısından temiz olmak ne demek, nasıl olunur sorularına cevap arayacağız.
 
 ### Etkinlik 9. Profesyoneller için Git
-**Yer:** Microsoft **Tarih:** 15.04.2019, Pazartesi **Saat:** 19:00 - 21:30
+**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 15.04.2019, Pazartesi **Saat:** 19:00 - 21:30
 
 Git sadece bir versiyon kontrol sistemi değil, tüm gücü ile yazılım süreçlerimizi şekillendirebilen çok önemli bir araçtır. Doğru kullanabilmek için hem Git'in iç çalışma yapısını iyi anlamalı, hem de akış modellerinin verimliğini yüksek tutmalıyız. Bu etkinlikte tüm yönleri ile Git'i ele alacak ve deneyimler ışığında ipuçları paylaşacağızç
 
 ### Etkinlik 10. Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İpuçları
-**Yer:** Microsoft **Tarih:** 29.04.2019, Pazartesi **Saat:** 19:00 - 21:30
+**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 29.04.2019, Pazartesi **Saat:** 19:00 - 21:30
 
 İnsanlar önünde konuşmak, çoğunlukla korkularımız arasında en üst sıralarda yer alır. Ancak bir yazılımcı olarak sunum hazırlamak, konuşma yapmak, insanlara bir konuda derinlemesine bilgi aktarmak sıradan iş hayatımızın ayrılmaz bir parçasıdır. Bu konuda deneyimli konuşmacılarımız sizlere onlarca pratik ipucu aktaracak ve katılımcıların korkularını yenmesi için yeni yöntemler iletecek.
+
+Spn etkinliğimizde kapanış ve sertifika töreni de gerçekleşecektir.
 
 ## Sertifika
 
@@ -111,24 +113,29 @@ Her etkinliğin son 40 dakikası, yazılım ve teknoloji alanlarında başarı k
 
 ### Söyleşi Konuşmacılarımız
 
-[**Neslihan Şirin Saygılı**](https://www.linkedin.com/in/sirinnes) Prisync'in kurucu ortağı ve yazılım geliştirme yöneticisidir. İTÜ Bilgisayar Mühendisliği bölümünden mezun olmuştur. Temel olarak ilgilendiği alanlar bilgi edinilmesi (information retrieval), verinin işlenmesi (metin sınıflandırma, yazar tespiti) ve bu verinin bilgiye dönüştürülmesidir. Python, Java, PHP, Ubuntu, HTTP yığını, Linux-Nginx-MySQL üçlüsü gündelik olarak kullandığı araçlardır. 
+### [Neslihan Şirin Saygılı](https://www.linkedin.com/in/sirinnes) 
+Prisync'in kurucu ortağı ve yazılım geliştirme yöneticisidir. İTÜ Bilgisayar Mühendisliği bölümünden mezun olmuştur. Temel olarak ilgilendiği alanlar bilgi edinilmesi (information retrieval), verinin işlenmesi (metin sınıflandırma, yazar tespiti) ve bu verinin bilgiye dönüştürülmesidir. Python, Java, PHP, Ubuntu, HTTP yığını, Linux-Nginx-MySQL üçlüsü gündelik olarak kullandığı araçlardır. 
 
-[**Elif T. Kuş**](https://www.linkedin.com/in/eliftkus) Safkan Yazılım'ın partneri ve yazılım mühendisidir. Kadın Yazılımcı topluluğunun üyelerindendir. Temelde web uygulamaları ve mobil uygulamalar ile uğraşmıştır. Python, Java, C#, Objective C, Android ve iOS ile kod yazmıştır ve hala yazmaktadır. Lisansında Kimya Mühendisliği okumuştur. Kendi şirketi üstünden proje bazlı çalışmakta ve IT danışmanlığı yapmaktadır. 
+### [Elif T. Kuş](https://www.linkedin.com/in/eliftkus) 
+Safkan Yazılım'ın partneri ve yazılım mühendisidir. Kadın Yazılımcı topluluğunun üyelerindendir. Temelde web uygulamaları ve mobil uygulamalar ile uğraşmıştır. Python, Java, C#, Objective C, Android ve iOS ile kod yazmıştır ve hala yazmaktadır. Lisansında Kimya Mühendisliği okumuştur. Kendi şirketi üstünden proje bazlı çalışmakta ve IT danışmanlığı yapmaktadır. 
 
-[**Büşra Deniz Akın**](https://www.linkedin.com/in/busradeniz/) Londra merkezli çalışan, kaliteli yazılım geliştirmeye meraklı bir yazılım mühendisidir. Şu anda, App Business'ta Android geliştiricisi olarak çalışmaktadır. Google Geliştirici Grubu ve Kadın Teknoloji Mühendisleri Londra topluluklarında eş organizatör olmanın yanı sıra, gönüllü olarak teknoloji etkinlikleri düzenlemekte ve geliştirici konferanslarında konuşmaktadır. Etkinlikler yoluyla bilgi paylaşmanın ve insanlarla işbirliği yapmanın inovasyon ve yeni bakış açıları getireceğine inanmaktadır.
+### [Büşra Deniz Akın](https://www.linkedin.com/in/busradeniz/) 
+Londra merkezli çalışan, kaliteli yazılım geliştirmeye meraklı bir yazılım mühendisidir. Şu anda, App Business'ta Android geliştiricisi olarak çalışmaktadır. Google Geliştirici Grubu ve Kadın Teknoloji Mühendisleri Londra topluluklarında eş organizatör olmanın yanı sıra, gönüllü olarak teknoloji etkinlikleri düzenlemekte ve geliştirici konferanslarında konuşmaktadır. Etkinlikler yoluyla bilgi paylaşmanın ve insanlarla işbirliği yapmanın inovasyon ve yeni bakış açıları getireceğine inanmaktadır.
 
-[**Pınar Yanardağ**](https://www.linkedin.com/in/pinguar/) doktorasını Purdue Üniversitesi Bilgisayar Mühendisliği bölümünde Fulbright Ph.D. bursu ve Google Anita Borg bursu ile yapmıştır. Şu anda MIT Media Lab'da post-doc yapmaktadır. Geçmişte Pardus GNU/Linux projesi kapsamında TUBITAK UEKAE güvenlik ekibi lideri, floss geliştiricisi, ve Google Summer of Code'un danışmanı olarak çalışmıştır. Boğaziçi Üniversitesi Bilgisayar Mühendisliğinden yüksek lisans derecesine sahiptir.
+### [Pınar Yanardağ](https://www.linkedin.com/in/pinguar/) 
+Doktorasını Purdue Üniversitesi Bilgisayar Mühendisliği bölümünde Fulbright Ph.D. bursu ve Google Anita Borg bursu ile yapmıştır. Şu anda MIT Media Lab'da post-doc yapmaktadır. Geçmişte Pardus GNU/Linux projesi kapsamında TUBITAK UEKAE güvenlik ekibi lideri, floss geliştiricisi, ve Google Summer of Code'un danışmanı olarak çalışmıştır. Boğaziçi Üniversitesi Bilgisayar Mühendisliğinden yüksek lisans derecesine sahiptir.
 
-[**Kadriye Doğan**](https://www.linkedin.com/in/dogankadriye) 2011 yılında Çanakkale OnSekiz Mart Üniversitesi Bilgisayar Mühendisliği bölümünden mezun olmuştur. Galatasaray Üniversitesi Bilgisayar Mühendisliği Yüksek Lisans programında öğrenimine Makine Öğrenmesi alanında devam etmektedir. 2011 yılından beri sektörde yazılım geliştirici olarak yer almaktadır. 2015 yılında dahil olduğu iyzico mühendislik ekibinde çeşitli projelerde yer almış, son 3 senedir Yapay Zeka tabanlı uygulamalar üzerinde çalışmaktadır.
+### [Kadriye Doğan](https://www.linkedin.com/in/dogankadriye) 
+2011 yılında Çanakkale OnSekiz Mart Üniversitesi Bilgisayar Mühendisliği bölümünden mezun olmuştur. Galatasaray Üniversitesi Bilgisayar Mühendisliği Yüksek Lisans programında öğrenimine Makine Öğrenmesi alanında devam etmektedir. 2011 yılından beri sektörde yazılım geliştirici olarak yer almaktadır. 2015 yılında dahil olduğu iyzico mühendislik ekibinde çeşitli projelerde yer almış, son 3 senedir Yapay Zeka tabanlı uygulamalar üzerinde çalışmaktadır.
 
 | No | Tarih | Söyleşi Konuşmacı |
 |:--- |:--- |:--- |
-| 1  | 04.03.2019, Pazartesi | Neslihan Şirin Saygılı |
+| 1  | 04.03.2019, Pazartesi | [Neslihan Şirin Saygılı](#neslihan-şirin-saygılı) |
 | 2  | 11.03.2019, Pazartesi |  |
-| 3  | 19.03.2019, Salı | Elif T. Kuş |
-| 4  | 25.03.2019, Pazartesi | Büşra Deniz Akın |
+| 3  | 19.03.2019, Salı | [Elif T. Kuş](#elif-t.-kus) |
+| 4  | 25.03.2019, Pazartesi | [Büşra Deniz Akın](#büşra-deniz-akın) |
 | 5  | 01.04.2019, Pazartesi |  |
-| 6  | 06/20.04.2019, Cumartesi | Kadriye Doğan |
+| 6  | 06/20.04.2019, Cumartesi | [Kadriye Doğan](#kadriye-doğan) |
 | 7  | 08.04.2019, Pazartesi |  |
 | 8  | 15.04.2019, Pazartesi |  |
 | 9  | 22.04.2019, Pazartesi |  |
@@ -140,7 +147,8 @@ Söyleşiler etkinliklerin son 40 dakikası gerçekleşecektir. Yeni konuşmacı
 
 Etkinliklerin ilk bir buçuk saati eğitim ile geçecektir. Eğitmenleri şu şekilde listeleyebiliriz. 
 
-[**Lemi Orhan Ergin**](https://www.linkedin.com/in/lemiorhan) 2001 senesinden bu yana aktif olarak yazılım geliştiren bir bilgisayar mühendisidir. Kariyeri boyunca onlarca kurumsal firmaya danışmanlık vermiş, eBay, Sony ve iyzico'da yazılım mimarı, yazılım ustası, teknik lider, takım lideri, teknik koordinator, Scrum Master ve agile koç olarak görev almıştır. Yazılım takımlarında yazılım kültürün kurulması, devamı ve sürdürülebilirliği konularında liderlik etmiştir. 2018 yılı içerisinde Hakan Erdoğan ve Sabri Onur Tüzün ile birlikte Craftbase’i kurmuştur. Halen sektör için kritik öneme sahip yazılımlar geliştirmeye devam etmektedir. 
+### [Lemi Orhan Ergin](https://www.linkedin.com/in/lemiorhan) 
+2001 senesinden bu yana aktif olarak yazılım geliştiren bir bilgisayar mühendisidir. Kariyeri boyunca onlarca kurumsal firmaya danışmanlık vermiş, eBay, Sony ve iyzico'da yazılım mimarı, yazılım ustası, teknik lider, takım lideri, teknik koordinator, Scrum Master ve agile koç olarak görev almıştır. Yazılım takımlarında yazılım kültürün kurulması, devamı ve sürdürülebilirliği konularında liderlik etmiştir. 2018 yılı içerisinde Hakan Erdoğan ve Sabri Onur Tüzün ile birlikte Craftbase’i kurmuştur. Halen sektör için kritik öneme sahip yazılımlar geliştirmeye devam etmektedir. 
 
 ## Etkinlik Sonrası Görevler
 
