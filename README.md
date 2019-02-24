@@ -101,7 +101,7 @@ Git sadece bir versiyon kontrol sistemi değil, tüm gücü ile yazılım süre�
 
 İnsanlar önünde konuşmak, çoğunlukla korkularımız arasında en üst sıralarda yer alır. Ancak bir yazılımcı olarak sunum hazırlamak, konuşma yapmak, insanlara bir konuda derinlemesine bilgi aktarmak sıradan iş hayatımızın ayrılmaz bir parçasıdır. Bu konuda deneyimli konuşmacılarımız sizlere onlarca pratik ipucu aktaracak ve katılımcıların korkularını yenmesi için yeni yöntemler iletecek.
 
-Spn etkinliğimizde kapanış ve sertifika töreni de gerçekleşecektir.
+Son etkinliğimizde kapanış ve sertifika töreni de gerçekleşecektir.
 
 ## Sertifika
 
