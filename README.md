@@ -52,7 +52,7 @@ Etkinliklerimizde başlangıç seviyesi konulardan daha ziyade, deneyimler ile d
 ### Etkinlik 1. Agile & Scrum: Çevik Olmak Neden Bu Kadar Zor?
 **Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 04.03.2019, Pazartesi **Saat:** 19:00 - 21:30
 
-Bu etkinlikte çeviklik kavramından, startup ve kurumsal dünyadaki farklılıklarından, yazılım doğasına yaklaşımından ve sıkça içine düşülen yanlışlardan bahsedilecek. Scrum çerçevesinin çevikliğe olan etkisine, pratikte yapılması ve yapılmaması gerekenlere de değinilecek. Özellikle yazılımcı olarak bizi bekleyen zihinyet değişiminin yapıtaşları ile deneyimlerimiz aktarılacak.
+Bu etkinlikte çeviklik kavramından, startup ve kurumsal dünyadaki farklılıklarından, yazılım doğasına yaklaşımından ve sıkça içine düşülen yanlışlardan bahsedilecek. Scrum çerçevesinin çevikliğe olan etkisine, pratikte yapılması ve yapılmaması gerekenlere de değinilecek. Özellikle yazılımcı olarak bizi bekleyen zihniyet değişiminin yapıtaşları ile deneyimlerimiz aktarılacak.
 
 ### Etkinlik 2. Software Craftsmanship: Yazılım Geliştirmede Etik ve Profesyonellik
 **Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 11.03.2019, Pazartesi **Saat:** 19:00 - 21:30
@@ -62,7 +62,7 @@ Bu etkinlikte yazılım geliştirmede etik ve profesyonellik kavramlarından bah
 ### Etkinlik 3. Yazılım Geliştirmede Çöp Kavramı ve Temizleme Yöntemleri
 **Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 19.03.2019, Salı **Saat:** 19:00 - 21:30
 
-Yazılım geliştirirken hemen hemen her anda çöp üretiyoruz, ya da çöplerin içinde geliştirme yapıyoruz. Çalışma hayatından ayrılamaz bir kavram olan çöp kavramını, tespit edilerek verimli bir şekilde temizlenemesi için en ince detaylarına dek etkinliğimizde tartışacağız. 
+Yazılım geliştirirken hemen hemen her anda çöp üretiyoruz, ya da çöplerin içinde geliştirme yapıyoruz. Çalışma hayatından ayrılamaz bir kavram olan çöp kavramını, tespit edilerek verimli bir şekilde temizlenmesi için en ince detaylarına dek etkinliğimizde tartışacağız. 
 
 ### Etkinlik 4. Yazılım Ekipleri için Yazılım Geliştirme Kültürü
 **Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 25.03.2019, Pazartesi **Saat:** 19:00 - 21:30
@@ -94,7 +94,7 @@ Yazılımcıların başını ağrıtan belki de en büyük sorun yazılım kalit
 ### Etkinlik 9. Profesyoneller için Git
 **Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 15.04.2019, Pazartesi **Saat:** 19:00 - 21:30
 
-Git sadece bir versiyon kontrol sistemi değil, tüm gücü ile yazılım süreçlerimizi şekillendirebilen çok önemli bir araçtır. Doğru kullanabilmek için hem Git'in iç çalışma yapısını iyi anlamalı, hem de akış modellerinin verimliğini yüksek tutmalıyız. Bu etkinlikte tüm yönleri ile Git'i ele alacak ve deneyimler ışığında ipuçları paylaşacağızç
+Git sadece bir versiyon kontrol sistemi değil, tüm gücü ile yazılım süreçlerimizi şekillendirebilen çok önemli bir araçtır. Doğru kullanabilmek için hem Git'in iç çalışma yapısını iyi anlamalı, hem de akış modellerinin verimliğini yüksek tutmalıyız. Bu etkinlikte tüm yönleri ile Git'i ele alacak ve deneyimler ışığında ipuçları paylaşacağız.
 
 ### Etkinlik 10. Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İpuçları
 **Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 29.04.2019, Pazartesi **Saat:** 19:00 - 21:30
@@ -158,7 +158,7 @@ Tüm yansılar ve materyaller İngilizce oluşturulmuştur, ancak **konuşma dil
 
 ## Eğitim Mekanı
 
-Etkinliklerimizin Coderetreat aötlyeleri hariç tümünü **Microsoft Türkiye ofisi, Levent**de, Jupiter salonunda gerçekleştireceğiz. [Google Harita](https://goo.gl/maps/Le9j5QihZz62) ve [Yandex Harita](https://yandex.com.tr/harita/-/CCQIq49j) üzerinden harita bilgilerine, [Moovit](https://moovitapp.com/index/tr/toplu_ta%C5%9F%C4%B1ma-Microsoft_Turkiye-Istanbul-site_7350239-1563) üzerinden toplu taşıma araçları ile ulaşım bilgilerine erişebilirsiniz.
+Etkinliklerimizin Coderetreat atölyeleri hariç tümünü **Microsoft Türkiye ofisi, Levent**de, Jupiter salonunda gerçekleştireceğiz. [Google Harita](https://goo.gl/maps/Le9j5QihZz62) ve [Yandex Harita](https://yandex.com.tr/harita/-/CCQIq49j) üzerinden harita bilgilerine, [Moovit](https://moovitapp.com/index/tr/toplu_ta%C5%9F%C4%B1ma-Microsoft_Turkiye-Istanbul-site_7350239-1563) üzerinden toplu taşıma araçları ile ulaşım bilgilerine erişebilirsiniz.
 
 **Açık Adres:** Microsoft Türkiye Ofisi, Bellevue Residence, Levent Mahallesi, Aydın Sokak No: 7, Levent, Istanbul 
 
@@ -172,7 +172,7 @@ Etkinlik takviminde 6. hafta olarak belirtilen ve katılım sayısına göre 2 s
 * Etkinlik Sponsorlarımız: [**Craftbase**](https://craftbase.io)
 * Media Sponsorumuz: [**Sherpa Blog**](https://sherpa.blog)
 
-Yeni sponsorlarımız yakında burada duyurulacaktır. Sponsor olmak için tüm bilgilere [sponsorluk dosyamızdan](sponsorluk-dosyasi.md) erişebilirsinizç
+Yeni sponsorlarımız yakında burada duyurulacaktır. Sponsor olmak için tüm bilgilere [sponsorluk dosyamızdan](sponsorluk-dosyasi.md) erişebilirsiniz.
 
 ## Destekleyen Topluluklar
 
