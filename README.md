@@ -16,14 +16,14 @@ Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar g
 
 ## Ön Kayıt
 
-Ön kayıtlarımız kapanmıştır. Başvuru yapan **320 kadın yazılımcı**ya çok teşekkür ederiz.
+Ön kayıtlarımız 25 Şubat 2019 Pazartesi saat 17:00 itibariyle kapanacaktır. Başvuru için [**Ön Kayıt Formunu**](https://craftedform.typeform.com/to/xXAKGW) eksiksiz doldurunuz.
 
-140 kişilik kontenjan için ön kayıt yapanlar ile eposta üzerinden iletişim kurulacaktır.
+Ön kayıtlar kapandıktan sonra, 140 kişilik kontenjan için ön kayıt yapanlar ile eposta üzerinden iletişim kurulacaktır.
 
 | Durum | İşlem | Tarih |
 | --- | --- | --- |
 | Tamamlandı | Ön kayıt açılış | 05.02.2019, Salı | 
-| Tamamlandı | Ön kayıt kapanış | 25.02.2019, Pazartesi |
+| Devam Ediyor | Ön kayıt kapanış | 25.02.2019, Pazartesi |
 | Devam Ediyor | Son kayıtların netleşmesi | 01.03.2019, Cuma |
 
 1 Mart 2019 tarihi itibariyle katılımcı listemiz netleşmiş ve sizler ile iletişim kurulmuş olacaktır.
