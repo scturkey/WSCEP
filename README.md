@@ -16,15 +16,15 @@ Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar g
 
 ## Ön Kayıt
 
-Ön kayıt için lütfen [**Ön Kayıt Formu**](https://craftedform.typeform.com/to/xXAKGW)'nu eksiksiz doldurunuz.
+Ön kayıtlarımız kapanmıştır. Başvuru yapan **320 kadın yazılımcı**ya çok teşekkür ederiz.
 
-Ön kayıtlar 25 Şubat 2019 tarihine kadar açık kalacaktır. Başvurular teker teker değerlendirilecek ve her bir başvuru için e-posta yolu ile iletişime geçilecektir.
+140 kişilik kontenjan için ön kayıt yapanlar ile eposta üzerinden iletişim kurulacaktır.
 
-| İşlem | Tarih |
-| --- | --- |
-| Ön kayıt açılış | 05.02.2019, Salı | 
-| Ön kayıt kapanış | 25.02.2019, Pazartesi |
-| Son kayıtların netleşmesi | 01.03.2019, Cuma |
+| Durum | İşlem | Tarih |
+| --- | --- | --- |
+| Tamamlandı | Ön kayıt açılış | 05.02.2019, Salı | 
+| Tamamlandı | Ön kayıt kapanış | 25.02.2019, Pazartesi |
+| Devam Ediyor | Son kayıtların netleşmesi | 01.03.2019, Cuma |
 
 1 Mart 2019 tarihi itibariyle katılımcı listemiz netleşmiş ve sizler ile iletişim kurulmuş olacaktır.
 
@@ -67,6 +67,8 @@ Her etkinliğin son 40 dakikası, yazılım ve teknoloji alanlarında başarı k
 
 [**Pınar Yanardağ**](https://www.linkedin.com/in/pinguar/) doktorasını Purdue Üniversitesi Bilgisayar Mühendisliği bölümünde Fulbright Ph.D. bursu ve Google Anita Borg bursu ile yapmıştır. Şu anda MIT Media Lab'da post-doc yapmaktadır. Geçmişte Pardus GNU/Linux projesi kapsamında TUBITAK UEKAE güvenlik ekibi lideri, floss geliştiricisi, ve Google Summer of Code'un danışmanı olarak çalışmıştır. Boğaziçi Üniversitesi Bilgisayar Mühendisliğinden yüksek lisans derecesine sahiptir.
 
+[**Kadriye Doğan**](https://www.linkedin.com/in/dogankadriye) 2011 yılında Çanakkale OnSekiz Mart Üniversitesi Bilgisayar Mühendisliği bölümünden mezun olmuştur. Galatasaray Üniversitesi Bilgisayar Mühendisliği Yüksek Lisans programında öğrenimine Makine Öğrenmesi alanında devam etmektedir. 2011 yılından beri sektörde yazılım geliştirici olarak yer almaktadır. 2015 yılında dahil olduğu iyzico mühendislik ekibinde çeşitli projelerde yer almış, son 3 senedir Yapay Zeka tabanlı uygulamalar üzerinde çalışmaktadır.
+
 | No | Tarih | Söyleşi Konuşmacı |
 |:--- |:--- |:--- |
 | 1  | 04.03.2019, Pazartesi | Neslihan Şirin Saygılı |
@@ -74,7 +76,7 @@ Her etkinliğin son 40 dakikası, yazılım ve teknoloji alanlarında başarı k
 | 3  | 19.03.2019, Salı | Elif T. Kuş |
 | 4  | 25.03.2019, Pazartesi | Büşra Deniz Akın |
 | 5  | 01.04.2019, Pazartesi |  |
-| 6  | 06/20.04.2019, Cumartesi |  |
+| 6  | 06/20.04.2019, Cumartesi | Kadriye Doğan |
 | 7  | 08.04.2019, Pazartesi |  |
 | 8  | 15.04.2019, Pazartesi |  |
 | 9  | 22.04.2019, Pazartesi |  |
@@ -96,11 +98,15 @@ Her etkinlik sonrası, katılımcılardan çalıştıkları ekiplerde rahatça u
 
 Tüm yansılar ve materyaller İngilizce oluşturulmuştur, ancak **konuşma dili Türkçedir**.
 
-## Mekan
+## Eğitim Mekanı
 
 Etkinliklerimizin Coderetreat aötlyeleri hariç tümünü **Microsoft Türkiye ofisi, Levent**de, Jupiter salonunda gerçekleştireceğiz. [Google Harita](https://goo.gl/maps/Le9j5QihZz62) ve [Yandex Harita](https://yandex.com.tr/harita/-/CCQIq49j) üzerinden harita bilgilerine, [Moovit](https://moovitapp.com/index/tr/toplu_ta%C5%9F%C4%B1ma-Microsoft_Turkiye-Istanbul-site_7350239-1563) üzerinden toplu taşıma araçları ile ulaşım bilgilerine erişebilirsiniz.
 
 **Açık Adres:** Microsoft Türkiye Ofisi, Bellevue Residence, Levent Mahallesi, Aydın Sokak No: 7, Levent, Istanbul 
+
+## Atölye Mekanı
+
+Etkinlik takviminde 6. hafta olarak belirtilen ve katılım sayısına göre 2 seans halinde gerçekleşecek atölyelerin yeri yakında duyurulacaktır.
 
 ## Sponsorlar
 
@@ -108,7 +114,7 @@ Etkinliklerimizin Coderetreat aötlyeleri hariç tümünü **Microsoft Türkiye 
 * Etkinlik Sponsorlarımız: [**Craftbase**](https://craftbase.io)
 * Media Sponsorumuz: [**Sherpa Blog**](https://sherpa.blog)
 
-Yeni sponsorlarımız yakında burada duyurulacaktır.
+Yeni sponsorlarımız yakında burada duyurulacaktır. Sponsor olmak için tüm bilgilere [sponsorluk dosyamızdan](sponsorluk-dosyasi.md) erişebilirsinizç
 
 ## Destekleyen Topluluklar
 
