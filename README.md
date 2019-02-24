@@ -119,7 +119,7 @@ Prisync'in kurucu ortağı ve yazılım geliştirme yöneticisidir. İTÜ Bilgis
 ### [Elif T. Kuş](https://www.linkedin.com/in/eliftkus) 
 Safkan Yazılım'ın partneri ve yazılım mühendisidir. Kadın Yazılımcı topluluğunun üyelerindendir. Temelde web uygulamaları ve mobil uygulamalar ile uğraşmıştır. Python, Java, C#, Objective C, Android ve iOS ile kod yazmıştır ve hala yazmaktadır. Lisansında Kimya Mühendisliği okumuştur. Kendi şirketi üstünden proje bazlı çalışmakta ve IT danışmanlığı yapmaktadır. 
 
-### [Büşra Deniz Akın](https://www.linkedin.com/in/busradeniz/) 
+### [Büşra Deniz Akın](https://www.linkedin.com/in/busradeniz)
 Londra merkezli çalışan, kaliteli yazılım geliştirmeye meraklı bir yazılım mühendisidir. Şu anda, App Business'ta Android geliştiricisi olarak çalışmaktadır. Google Geliştirici Grubu ve Kadın Teknoloji Mühendisleri Londra topluluklarında eş organizatör olmanın yanı sıra, gönüllü olarak teknoloji etkinlikleri düzenlemekte ve geliştirici konferanslarında konuşmaktadır. Etkinlikler yoluyla bilgi paylaşmanın ve insanlarla işbirliği yapmanın inovasyon ve yeni bakış açıları getireceğine inanmaktadır.
 
 ### [Pınar Yanardağ](https://www.linkedin.com/in/pinguar/) 
@@ -132,7 +132,7 @@ Doktorasını Purdue Üniversitesi Bilgisayar Mühendisliği bölümünde Fulbri
 |:--- |:--- |:--- |
 | 1  | 04.03.2019, Pazartesi | [Neslihan Şirin Saygılı](#neslihan-şirin-saygılı) |
 | 2  | 11.03.2019, Pazartesi |  |
-| 3  | 19.03.2019, Salı | [Elif T. Kuş](#elif-t.-kus) |
+| 3  | 19.03.2019, Salı | [Elif T. Kuş](#elif-t-ku%C5%9F) |
 | 4  | 25.03.2019, Pazartesi | [Büşra Deniz Akın](#büşra-deniz-akın) |
 | 5  | 01.04.2019, Pazartesi |  |
 | 6  | 06/20.04.2019, Cumartesi | [Kadriye Doğan](#kadriye-doğan) |
