@@ -36,20 +36,72 @@ Yoğun ilgi nedeniyle kontenjan **140 kişi** olarak belirlenmiştir.
 
 Etkinliklerimizde başlangıç seviyesi konulardan daha ziyade, deneyimler ile derinleşmiş daha ileri teknikler ve konuların konuşulması planlanmaktadır.
 
-| No | Tarih | Konu | Mekan | Saat |
-|:--- |:--- |:--- |:--- |:--- | 
-| 1  | 04.03.2019, Pazartesi | Software Craftsmanship, Agile & Scrum | Microsoft | 19:00-21:30 |
-| 2  | 11.03.2019, Pazartesi | Yazılım Geliştirmede Etik ve Profesyonellik | Microsoft | 19:00-21:30 |
+| No | Tarih | Konu | Yer | Saat |
+| --- | --- | --- | --- | --- |
+| 1  | 04.03.2019, Pazartesi | Agile & Scrum: Çevik Olmak Neden Bu Kadar Zor? | Microsoft | 19:00-21:30 |
+| 2  | 11.03.2019, Pazartesi | Software Craftsmanship: Yazılım Geliştirmede Etik ve Profesyonellik | Microsoft | 19:00-21:30 |
 | 3  | 19.03.2019, Salı | Yazılım Geliştirmede Çöp Kavramı ve Temizleme Yöntemleri | Microsoft | 19:00-21:30 |
-| 4  | 25.03.2019, Pazartesi | Ekipler için Yazılım Geliştirme Kültürü | Microsoft | 19:00-21:30 |
-| 5  | 01.04.2019, Pazartesi  | TDD, Automated Testing, TDD Atölyesi | Microsoft | 19:00-21:30 |
+| 4  | 25.03.2019, Pazartesi | Yazılım Ekipleri için Yazılım Geliştirme Kültürü | Microsoft | 19:00-21:30 |
+| 5  | 01.04.2019, Pazartesi  | TDD, Automated Testing, Canlı TDD Deneyimi | Microsoft | 19:00-21:30 |
 | 6  | 06.04.2019, Cumartesi / 20.04.2019, Cumartesi | Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat | Açıklanacak | 09:30-16:30 |
-| 7  | 08.04.2019, Pazartesi | Pair Programming & Code Review | Microsoft | 19:00-21:30 |
+| 7  | 08.04.2019, Pazartesi | Pair Programming & Code Review: Yazılım Ustasının El Kitabı | Microsoft | 19:00-21:30 |
 | 8  | 11.04.2019, Perşembe | Temiz Kod Tasarım Pratikleri | Microsoft | 19:00-21:30 |
 | 9  | 15.04.2019, Pazartesi | Profesyoneller için Git  | Microsoft | 19:00-21:30 |
 | 10 | 29.04.2019, Pazartesi | Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İpuçları | Microsoft | 19:00-21:30 |
 
-Coderetreat atölyesi katılım durumuna göre 2 seans halinde gerçekleşecektir. 
+### Etkinlik 1. Agile & Scrum: Çevik Olmak Neden Bu Kadar Zor?
+**Yer:** Microsoft **Tarih:** 04.03.2019, Pazartesi **Saat:** 19:00 - 21:30
+
+Bu etkinlikte çeviklik kavramından, startup ve kurumsal dünyadaki farklılıklarından, yazılım doğasına yaklaşımından ve sıkça içine düşülen yanlışlardan bahsedilecek. Scrum çerçevesinin çevikliğe olan etkisine, pratikte yapılması ve yapılmaması gerekenlere de değinilecek. Özellikle yazılımcı olarak bizi bekleyen zihinyet değişiminin yapıtaşları ile deneyimlerimiz aktarılacak.
+
+### Etkinlik 2. Software Craftsmanship: Yazılım Geliştirmede Etik ve Profesyonellik
+**Yer:** Microsoft **Tarih:** 11.03.2019, Pazartesi **Saat:** 19:00 - 21:30
+
+Bu etkinlikte yazılım geliştirmede etik ve profesyonellik kavramlarından bahsedilecek. Yazılım dünyasında unutulmaması gereken etik kuralları, bir meslek olarak yazılım geliştirme ve yazılımda ustalaşma yolculuğuna nasıl çıkabileceğimiz işlenecek konular arasında.
+
+### Etkinlik 3. Yazılım Geliştirmede Çöp Kavramı ve Temizleme Yöntemleri
+**Yer:** Microsoft **Tarih:** 19.03.2019, Salı **Saat:** 19:00 - 21:30
+
+Yazılım geliştirirken hemen hemen her anda çöp üretiyoruz, ya da çöplerin içinde geliştirme yapıyoruz. Çalışma hayatından ayrılamaz bir kavram olan çöp kavramını, tespit edilerek verimli bir şekilde temizlenemesi için en ince detaylarına dek etkinliğimizde tartışacağız. 
+
+### Etkinlik 4. Yazılım Ekipleri için Yazılım Geliştirme Kültürü
+**Yer:** Microsoft **Tarih:** 25.03.2019, Pazartesi **Saat:** 19:00 - 21:30
+
+Yazılım geliştirmek başlı başına bir ekip işidir. Ekipler sadece üretim yapmazlar. Beraberlerinde bir kültür de oluştururlar. Yazılımın başarısı, çalışanların ve müşterinin memnuniyeti de bu kültür ile doğrudan ilişkilidir. Bu etkinlikte şirketinizde ve ekibinizde yazılım geliştirme kültürü nasıl olmalı, nelere dikkate etmek gerekir, hangi noktalarda harekete geçebilirizi tartışacağız.
+
+### Etkinlik 5. TDD, Automated Testing, Canlı TDD Deneyimi
+**Yer:** Microsoft **Tarih:** 01.04.2019, Pazartesi **Saat:** 19:00 - 21:30
+
+Bu etkinliğimizde TDD, Automated Testing ve CI/CD süreçlerinden bahsedilecek. Akabinde bir kod kata ile TDD deneyimi yaşayacağız. Kod katayı canlı kodlama ile hep beraber yazacağız. Bilgisayarınızı getirmenize gerek yoktur.
+
+### Etkinlik 6. Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat
+**Seans 1:** **Yer:** Açıklanacak **Tarih:** 06.04.2019, Cumartesi **Saat:** 09:30 - 16:30
+
+**Seans 2:** **Yer:** Açıklanacak **Tarih:** 20.04.2019, Cumartesi **Saat:** 09:30 - 16:30
+
+Coderetreat atölyesi katılım durumuna göre 2 seans halinde gerçekleşecektir. Seanslardan birine katılmak kafidir. Bu etkinlikte bilgisayarınızı yanınızda getirmelisiniz. Tüm gün boyunca TDD ve eşli programlama ile bir oyun yazacağız. Birbirinden ilginç kısıtlamalar ile kod tasarımında farklı bakış açıları getirmeye çalışacağız.
+
+### Etkinlik 7. Pair Programming & Code Review: Yazılım Ustasının El Kitabı
+**Yer:** Microsoft **Tarih:** 08.04.2019, Pazartesi **Saat:** 19:00 - 21:30
+
+Eşli programlama ve kod inceleme, yazılım süreçleri içerisinde yer alan, sosyal beceri isteyen, kaliteye doğrudan etki edebilen, deneyimler ile ustalaşabilen çok özel pratiklerdir. Bu pratiklere senelerini veren konuşmacılarımız tüm deneyimlerini katılımcılarımız ile paylaşacaklar.
+
+### Etkinlik 8. Temiz Kod Tasarım Pratikleri
+**Yer:** Microsoft **Tarih:** 11.04.2019, Perşembe **Saat:** 19:00 - 21:30
+
+Yazılımcıların başını ağrıtan belki de en büyük sorun yazılım kalitesinin düşük olmasıdır. Yazılımı kaliteli yapan şeylerin başında temiz olması gelir. Bu etkinlikte hem mimari hem de kod açısından temiz olmak ne demek, nasıl olunur sorularına cevap arayacağız.
+
+### Etkinlik 9. Profesyoneller için Git
+**Yer:** Microsoft **Tarih:** 15.04.2019, Pazartesi **Saat:** 19:00 - 21:30
+
+Git sadece bir versiyon kontrol sistemi değil, tüm gücü ile yazılım süreçlerimizi şekillendirebilen çok önemli bir araçtır. Doğru kullanabilmek için hem Git'in iç çalışma yapısını iyi anlamalı, hem de akış modellerinin verimliğini yüksek tutmalıyız. Bu etkinlikte tüm yönleri ile Git'i ele alacak ve deneyimler ışığında ipuçları paylaşacağızç
+
+### Etkinlik 10. Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İpuçları
+**Yer:** Microsoft **Tarih:** 29.04.2019, Pazartesi **Saat:** 19:00 - 21:30
+
+İnsanlar önünde konuşmak, çoğunlukla korkularımız arasında en üst sıralarda yer alır. Ancak bir yazılımcı olarak sunum hazırlamak, konuşma yapmak, insanlara bir konuda derinlemesine bilgi aktarmak sıradan iş hayatımızın ayrılmaz bir parçasıdır. Bu konuda deneyimli konuşmacılarımız sizlere onlarca pratik ipucu aktaracak ve katılımcıların korkularını yenmesi için yeni yöntemler iletecek.
+
+## Sertifika
 
 Son etkinlik kapanışta, 10 etkinliğin asgari 8'ine katılan katılımcılara "**Katılım Sertifikası**" verilecektir.
 
