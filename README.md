@@ -137,8 +137,8 @@ Doktorasını Purdue Üniversitesi Bilgisayar Mühendisliği bölümünde Fulbri
 | 5  | 01.04.2019, Pazartesi |  |
 | 6  | 06/20.04.2019, Cumartesi | [Kadriye Doğan](#kadriye-doğan) |
 | 7  | 08.04.2019, Pazartesi |  |
-| 8  | 15.04.2019, Pazartesi |  |
-| 9  | 22.04.2019, Pazartesi |  |
+| 8  | 11.04.2019, Perşembe |  |
+| 9  | 15.04.2019, Pazartesi |  |
 | 10 | 29.04.2019, Pazartesi |  |
 
 Söyleşiler etkinliklerin son 40 dakikası gerçekleşecektir. Yeni konuşmacılarımız önümüzdeki günlerde duyurulacaktır.
