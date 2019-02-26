@@ -20,7 +20,7 @@ Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar g
 
 Ön kayıtlarımız kapanmıştır. Gelen 360 başvuru için tüm kadın yazılımcılara teşekkür ederiz.
 
-140 kişilik kontenjan için ön kayıt yapanlar ile eposta üzerinden iletişim kurulacaktır.
+140 kişilik kontenjan için ön kayıt yapanlar ile eposta üzerinden iletişim ~~kurulacaktır~~ kurulmuştur.
 
 | Durum | İşlem | Tarih |
 | --- | --- | --- |
