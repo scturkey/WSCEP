@@ -14,19 +14,21 @@ Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar g
 * Programlama dili ya da iş kapsamı konularında herhangi bir kısıtlama bulunmamaktadır.
 * Atölye şeklinde gerçekleşecek etkinlikler için kişisel bilgisayarlarınızı getirmeniz gerekmektedir.
 
-## Ön Kayıt
+## Ön Kayıt (Son Durum: Kesin Kayıtlar Tamamlandı)
 
 ~~Ön kayıtlarımız 25 Şubat 2019 Pazartesi saat 17:00 itibariyle kapanacaktır. Başvuru için Ön Kayıt Formunu eksiksiz doldurunuz.~~
 
-Ön kayıtlarımız kapanmıştır. Gelen 360 başvuru için tüm kadın yazılımcılara teşekkür ederiz.
+~~Ön kayıtlarımız kapanmıştır. Gelen 360 başvuru için tüm kadın yazılımcılara teşekkür ederiz.~~
 
-140 kişilik kontenjan için ön kayıt yapanlar ile eposta üzerinden iletişim ~~kurulacaktır~~ kurulmuştur.
+~~140 kişilik kontenjan için ön kayıt yapanlar ile eposta üzerinden iletişim kurulmuştur.~~
+
+**Kesin kayıtlar tamamlanmıştır. 8 dakika içinde 145 kayıt aldık. Kesin kaydını tamamlayanlar ile iletişime geçilecektir.**
 
 | Durum | İşlem | Tarih |
 | --- | --- | --- |
 | Tamamlandı | Ön kayıt açılış | 05.02.2019, Salı | 
 | Tamamlandı | Ön kayıt kapanış | 25.02.2019, Pazartesi |
-| Devam Ediyor | Son kayıtların netleşmesi | 01.03.2019, Cuma |
+| Tamamlandı | Son kayıtların netleşmesi | 01.03.2019, Cuma |
 
 1 Mart 2019 tarihi itibariyle katılımcı listemiz netleşmiş ve sizler ile iletişim kurulmuş olacaktır.
 
