@@ -187,6 +187,7 @@ Ana destekçilerimiz etkinlikler boyunca bizimle olacaklar. Katılımcılarımı
 
 * [Kadın Bilişimci](https://www.meetup.com/Kad%C4%B1n-Bili%C5%9Fimci)
 * [Kadın Yazılımcı](https://www.kadinyazilimci.com)
+* [Django Girls İstanbul](https://djangogirls.org/istanbul/)
 
 ### Destekçi Topluluklar
 
