@@ -34,6 +34,8 @@ Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar g
 * Programlama dili ya da iş kapsamı konularında herhangi bir kısıtlama bulunmamaktadır.
 * Atölye şeklinde gerçekleşecek etkinlikler için kişisel bilgisayarlarınızı getirmeniz gerekmektedir.
 
+[[^]](#i%C3%A7erik)
+
 ## Ön Kayıt (Son Durum: Kesin Kayıtlar Tamamlandı)
 
 ~~Ön kayıtlarımız 25 Şubat 2019 Pazartesi saat 17:00 itibariyle kapanacaktır. Başvuru için Ön Kayıt Formunu eksiksiz doldurunuz.~~
@@ -52,9 +54,13 @@ Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar g
 
 1 Mart 2019 tarihi itibariyle katılımcı listemiz netleşmiş ve sizler ile iletişim kurulmuş olacaktır.
 
+[[^]](#i%C3%A7erik)
+
 ## Kontenjan
 
 Yoğun ilgi nedeniyle kontenjan **140 kişi** olarak belirlenmiştir.
+
+[[^]](#i%C3%A7erik)
 
 ## Takvim
 
@@ -127,9 +133,13 @@ Git sadece bir versiyon kontrol sistemi değil, tüm gücü ile yazılım süre�
 
 Son etkinliğimizde kapanış ve sertifika töreni de gerçekleşecektir.
 
+[[^]](#i%C3%A7erik)
+
 ## Sertifika
 
 Son etkinlik kapanışta, 10 etkinliğin asgari 8'ine katılan katılımcılara "**Katılım Sertifikası**" verilecektir.
+
+[[^]](#i%C3%A7erik)
 
 ## Söyleşi Konuşmacılarımız
 
@@ -165,6 +175,8 @@ Doktorasını Purdue Üniversitesi Bilgisayar Mühendisliği bölümünde Fulbri
 
 Söyleşiler etkinliklerin son 40 dakikası gerçekleşecektir. Yeni konuşmacılarımız önümüzdeki günlerde duyurulacaktır.
 
+[[^]](#i%C3%A7erik)
+
 ### Eğitim Konuşmacımız
 
 Etkinliklerin ilk bir buçuk saati eğitim ile geçecektir. Eğitmenleri şu şekilde listeleyebiliriz. 
@@ -172,13 +184,19 @@ Etkinliklerin ilk bir buçuk saati eğitim ile geçecektir. Eğitmenleri şu şe
 ### [Lemi Orhan Ergin](https://www.linkedin.com/in/lemiorhan) 
 2001 senesinden bu yana aktif olarak yazılım geliştiren bir bilgisayar mühendisidir. Kariyeri boyunca onlarca kurumsal firmaya danışmanlık vermiş, eBay, Sony, ACM ve iyzico'da yazılım mimarı, yazılım ustası, teknik lider, takım lideri, teknik koordinator, Scrum Master ve agile koç olarak görev almıştır. Yazılım takımlarında yazılım kültürün kurulması, devamı ve sürdürülebilirliği konularında liderlik etmiştir. 2018 yılı içerisinde Hakan Erdoğan ve Sabri Onur Tüzün ile birlikte Craftbase’i kurmuştur. Halen sektör için kritik öneme sahip yazılımlar geliştirmeye devam etmektedir. 
 
+[[^]](#i%C3%A7erik)
+
 ## Etkinlik Sonrası Görevler
 
 Her etkinlik sonrası, katılımcılardan çalıştıkları ekiplerde rahatça uygulayabilecekleri bazı görevler verilecektir.
 
+[[^]](#i%C3%A7erik)
+
 ## Etkinlik Dili
 
 Tüm yansılar ve materyaller İngilizce oluşturulmuştur, ancak **konuşma dili Türkçedir**.
+
+[[^]](#i%C3%A7erik)
 
 ## Eğitim Mekanı
 
@@ -186,9 +204,13 @@ Etkinliklerimizin Coderetreat atölyeleri hariç tümünü **Microsoft Türkiye 
 
 **Açık Adres:** Microsoft Türkiye Ofisi, Bellevue Residence, Levent Mahallesi, Aydın Sokak No: 7, Levent, Istanbul 
 
+[[^]](#i%C3%A7erik)
+
 ## Atölye Mekanı
 
 Etkinlik takviminde 6. hafta olarak belirtilen ve katılım sayısına göre 2 seans halinde gerçekleşecek atölyelerin yeri yakında duyurulacaktır.
+
+[[^]](#i%C3%A7erik)
 
 ## Sponsorlar
 
@@ -197,6 +219,8 @@ Etkinlik takviminde 6. hafta olarak belirtilen ve katılım sayısına göre 2 s
 * Media Sponsorumuz: [**Sherpa Blog**](https://sherpa.blog)
 
 Yeni sponsorlarımız yakında burada duyurulacaktır. Sponsor olmak için tüm bilgilere [sponsorluk dosyamızdan](sponsorluk-dosyasi.md) erişebilirsiniz.
+
+[[^]](#i%C3%A7erik)
 
 ## Destekleyen Topluluklar
 
@@ -215,14 +239,22 @@ Ana destekçilerimiz etkinlikler boyunca bizimle olacaklar. Katılımcılarımı
 * [Istanbul Jug](https://istanbul-jug.org)
 * [Kodluyoruz Derneği](https://www.kodluyoruz.org/)
 
+[[^]](#i%C3%A7erik)
+
 ## Sosyal Medyada Duyuru
 
 Program ile ilgili paylaşım yapmak isterseniz, etkinlik hakkında hazırladığımız [haber metnini](haber-metni.md) kullanabilirsiniz.
+
+[[^]](#i%C3%A7erik)
 
 ## İletişim
 
 Her tür soru, yorum ve öneriniz için [info@scturkey.org](mailto:info@scturkey.org) adresine e-posta atabilirsiniz.
 
+[[^]](#i%C3%A7erik)
+
 ## Duyurular
 
 Tüm duyurular [SCTurkey'in Twitter hesabından](https://twitter.com/scturkey) gerçekleşecek. Hesabımızı takip edebilirsiniz.
+
+[[^]](#i%C3%A7erik)
