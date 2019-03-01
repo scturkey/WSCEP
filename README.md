@@ -1,10 +1,30 @@
 # SCTurkey Kadın Yazılımcı Destekleme Programı, Sezon 1
 
+_Her fırtına bir damla yağmur ile başlar..._
+
 10 etkinlikten oluşan bu program [Software Craftsmanship Turkey](https://www.meetup.com/Software-Craftsmanship-Turkey/) tarafından düzenlenmektedir.
 
 Programın ana amacı, erkek egemen sektörümüzde kadın yazılımcıların mesleki gelişmelerini arttırabilecekleri yeni ve etkin fırsatlar yaratmak ve yazılım sektöründe aranan örnek yazılımcılar arasında yer bulmalarına destek olmaktır.
 
 Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar gönüllü olarak yer almaktadır.
+
+# İçerik 
+  * [Katılım için Koşullar](#kat%C4%B1l%C4%B1m-i%C3%A7in-ko%C5%9Fullar)
+  * [Ön Kayıt](#%C3%B6n-kay%C4%B1t-son-durum-kesin-kay%C4%B1tlar-tamamland%C4%B1)
+  * [Kontenjan](#kontenjan)
+  * [Takvim](#takvim)
+  * [Sertifika](#sertifika)
+  * [Söyleşi Konuşmacılarımız](#s%C3%B6yle%C5%9Fi-konu%C5%9Fmac%C4%B1lar%C4%B1m%C4%B1z)
+  * [Eğitim Konuşmacımız](#e%C4%9Fitim-konu%C5%9Fmac%C4%B1m%C4%B1z)
+  * [Etkinlik Sonrası Görevler](#etkinlik-sonras%C4%B1-g%C3%B6revler)
+  * [Etkinlik Dili](#etkinlik-dili)
+  * [Eğitim Mekanı](#e%C4%9Fitim-mekan%C4%B1)
+  * [Atölye Mekanı](#at%C3%B6lye-mekan%C4%B1)
+  * [Sponsorlar](#sponsorlar)
+  * [Destekleyen Topluluklar](#destekleyen-topluluklar)
+  * [Sosyal Medyada Duyuru](#sosyal-medyada-duyuru)
+  * [İletişim](#ileti%C5%9Fim)
+  * [Duyurular](#duyurular)
 
 ## Katılım için Koşullar
 
@@ -173,7 +193,7 @@ Etkinlik takviminde 6. hafta olarak belirtilen ve katılım sayısına göre 2 s
 ## Sponsorlar
 
 * Mekan Sponsorlarımız: [**Microsoft**](https://www.microsoft.com/tr-tr/)
-* Etkinlik Sponsorlarımız: [**Craftbase**](https://craftbase.io)
+* Etkinlik Sponsorlarımız: [**Craftbase**](https://craftbase.io), [**Prisync**](https://prisync.com/)
 * Media Sponsorumuz: [**Sherpa Blog**](https://sherpa.blog)
 
 Yeni sponsorlarımız yakında burada duyurulacaktır. Sponsor olmak için tüm bilgilere [sponsorluk dosyamızdan](sponsorluk-dosyasi.md) erişebilirsiniz.
