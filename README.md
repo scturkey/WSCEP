@@ -214,9 +214,18 @@ Etkinlik takviminde 6. hafta olarak belirtilen ve katılım sayısına göre 2 s
 
 ## Sponsorlar
 
-* Mekan Sponsorlarımız: [**Microsoft**](https://www.microsoft.com/tr-tr/)
-* Etkinlik Sponsorlarımız: [**Craftbase**](https://craftbase.io), [**Prisync**](https://prisync.com/)
-* Media Sponsorumuz: [**Sherpa Blog**](https://sherpa.blog)
+### Mekan Sponsorlarımız: 
+
+* [**Microsoft**](https://www.microsoft.com/tr-tr/)
+
+### Etkinlik Sponsorlarımız 
+
+* [**Craftbase**](https://craftbase.io)
+* [**Prisync**](https://prisync.com/)
+* [**Safkan Yazılım**](https://www.safkanyazilim.com)
+
+### Media Sponsorumuz:
+* [**Sherpa Blog**](https://sherpa.blog)
 
 Yeni sponsorlarımız yakında burada duyurulacaktır. Sponsor olmak için tüm bilgilere [sponsorluk dosyamızdan](sponsorluk-dosyasi.md) erişebilirsiniz.
 
