@@ -76,8 +76,8 @@ Etkinliklerimizde başlangıç seviyesi konulardan daha ziyade, deneyimler ile d
 | 6  | 06.04.2019, Cumartesi / 20.04.2019, Cumartesi | [Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat](#etkinlik-6-t%C3%BCm-g%C3%BCn-s%C3%BCrecek-tdd-ve-e%C5%9Fli-programlama-at%C3%B6lyesi-code-retreat) | Açıklanacak | 09:30-16:30 |
 | 7  | 08.04.2019, Pazartesi | [Pair Programming & Code Review: Yazılım Ustasının El Kitabı](#etkinlik-7-pair-programming--code-review-yaz%C4%B1l%C4%B1m-ustas%C4%B1n%C4%B1n-el-kitab%C4%B1) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
 | 8  | 11.04.2019, Perşembe | [Temiz Kod Tasarım Pratikleri](#etkinlik-8-temiz-kod-tasar%C4%B1m-pratikleri) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
-| 9  | 15.04.2019, Pazartesi | [Profesyoneller için Git](#etkinlik-9-profesyoneller-i%C3%A7in-git)  | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
-| 10 | 29.04.2019, Pazartesi | [Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İpuçları](#etkinlik-10-yaz%C4%B1l%C4%B1mc%C4%B1lar-i%C3%A7in-topluluk-%C3%B6n%C3%BCnde-konu%C5%9Fma-ve-sunum-haz%C4%B1rlaman%C4%B1n-ipu%C3%A7lar%C4%B1) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
+| 9  | 29.04.2019, Pazartesi | [Profesyoneller için Git](#etkinlik-9-profesyoneller-i%C3%A7in-git)  | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
+| 10 | 02.05.2019, Perşembe | [Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İpuçları](#etkinlik-10-yaz%C4%B1l%C4%B1mc%C4%B1lar-i%C3%A7in-topluluk-%C3%B6n%C3%BCnde-konu%C5%9Fma-ve-sunum-haz%C4%B1rlaman%C4%B1n-ipu%C3%A7lar%C4%B1) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
 
 ### Etkinlik 1. Agile & Scrum: Çevik Olmak Neden Bu Kadar Zor?
 **Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 04.03.2019, Pazartesi **Saat:** 19:00 - 21:30
@@ -170,8 +170,8 @@ Doktorasını Purdue Üniversitesi Bilgisayar Mühendisliği bölümünde Fulbri
 | 6  | 06/20.04.2019, Cumartesi | [Kadriye Doğan](#kadriye-doğan) |
 | 7  | 08.04.2019, Pazartesi | [Pınar Yanardağ](#pınar-yanardağ) |
 | 8  | 11.04.2019, Perşembe |  |
-| 9  | 15.04.2019, Pazartesi |  |
-| 10 | 29.04.2019, Pazartesi |  |
+| 9  | 29.04.2019, Pazartesi |  |
+| 10 | 02.05.2019, Perşembe |  |
 
 Söyleşiler etkinliklerin son 40 dakikası gerçekleşecektir. Yeni konuşmacılarımız önümüzdeki günlerde duyurulacaktır.
 
