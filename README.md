@@ -160,13 +160,16 @@ Doktorasını Purdue Üniversitesi Bilgisayar Mühendisliği bölümünde Fulbri
 ### [Kadriye Doğan](https://www.linkedin.com/in/dogankadriye) 
 2011 yılında Çanakkale OnSekiz Mart Üniversitesi Bilgisayar Mühendisliği bölümünden mezun olmuştur. Galatasaray Üniversitesi Bilgisayar Mühendisliği Yüksek Lisans programında öğrenimine Makine Öğrenmesi alanında devam etmektedir. 2011 yılından beri sektörde yazılım geliştirici olarak yer almaktadır. 2015 yılında dahil olduğu iyzico mühendislik ekibinde çeşitli projelerde yer almış, son 3 senedir Yapay Zeka tabanlı uygulamalar üzerinde çalışmaktadır.
 
+### [Yeşim Başaran](https://www.linkedin.com/in/ye%C5%9Fim-ba%C5%9Faran-8a2a945b)
+1996 yılında ODTÜ Endüstri Mühendisliği'nden mezun olmuştur. Çeşitli firmalarda yazılım uzmanı ve proje yöneticisi olarak çalıştıktan sonra 2009 yılından itibaren Özyeğin Üniversitesi'nde yazılım müdürlüğü yapmaktadır. Üniversitenin web, mobil, iş zekası ve akademik süreçlerle ilgili uygulamalarını geliştiren ve destekleyen ekibin yöneticisidir. LGBTİ+ ve kadın hakları konusunda dayanışma, eğitim ve araştırma alanlarında bir çok çalışma ve projeye gönüllü olarak katılmıştır.
+
 | No | Tarih | Söyleşi Konuşmacı |
 |:--- |:--- |:--- |
 | 1  | 04.03.2019, Pazartesi | [Neslihan Şirin Saygılı](#neslihan-şirin-saygılı) |
 | 2  | 11.03.2019, Pazartesi | Gamze Boz |
 | 3  | 19.03.2019, Salı | [Elif T. Kuş](#elif-t-ku%C5%9F) |
 | 4  | 25.03.2019, Pazartesi | [Büşra Deniz Akın](#büşra-deniz-akın) |
-| 5  | 01.04.2019, Pazartesi | Yeşim Başaran |
+| 5  | 01.04.2019, Pazartesi | [Yeşim Başaran](#yeşim-başaran) |
 | 6  | 06/20.04.2019, Cumartesi | [Kadriye Doğan](#kadriye-doğan) |
 | 7  | 08.04.2019, Pazartesi | [Pınar Yanardağ](#pınar-yanardağ) |
 | 8  | 11.04.2019, Perşembe |  |
