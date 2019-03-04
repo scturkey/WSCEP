@@ -163,10 +163,13 @@ Doktorasını Purdue Üniversitesi Bilgisayar Mühendisliği bölümünde Fulbri
 ### [Yeşim Başaran](https://www.linkedin.com/in/ye%C5%9Fim-ba%C5%9Faran-8a2a945b)
 1996 yılında ODTÜ Endüstri Mühendisliği'nden mezun olmuştur. Çeşitli firmalarda yazılım uzmanı ve proje yöneticisi olarak çalıştıktan sonra 2009 yılından itibaren Özyeğin Üniversitesi'nde yazılım müdürlüğü yapmaktadır. Üniversitenin web, mobil, iş zekası ve akademik süreçlerle ilgili uygulamalarını geliştiren ve destekleyen ekibin yöneticisidir. LGBTİ+ ve kadın hakları konusunda dayanışma, eğitim ve araştırma alanlarında bir çok çalışma ve projeye gönüllü olarak katılmıştır.
 
+### [Gamze Boz](https://www.linkedin.com/in/gamze-boz-3a9278147)
+Gamze Boz, ODTÜ'den Bilgisayar Mühendisliği Lisans Derecesi ile mezun oldu. İlk iş deneyimini Cybersoft'da kazandı; arkasından beş yıla yakın süre Ziraat Teknoloji'de yazılım mühendisi olarak çalıştı. Bu sürede, temel bankacılık sistemleri ve İnternet bankacılığı üzerinde çalıştı. Sonrasında, sektör değişikliği yaparak Turkcell'e geçti; toplamda on yılı aşkın bir süre Turkcell ve Turkcell Teknoloji'de yazılım uzmanı ve yazılım mimarlığı rolleri aldı. Tasarım ve kodlama standartları, kurumsal mimari, proje yönetimi konularında çalıştı. Kampanya yönetimi, kalite yönetimi ve tedarikçi yönetimine destek ve danışmanlık sağladı. İş ihtiyaçlarının yazılım ürünlerine dönüşmesinde, tasarım, teknik çözüm ve çözüm mimarisi konularında rol aldı. Yaklaşık bir yıldır Hayat Varlık'ta yazılım geliştirme yöneticisi olarak çalışıyor.
+
 | No | Tarih | Söyleşi Konuşmacı |
 |:--- |:--- |:--- |
 | 1  | 04.03.2019, Pazartesi | [Neslihan Şirin Saygılı](#neslihan-şirin-saygılı) |
-| 2  | 11.03.2019, Pazartesi | Gamze Boz |
+| 2  | 11.03.2019, Pazartesi | [Gamze Boz](#gamze-boz) |
 | 3  | 19.03.2019, Salı | [Elif T. Kuş](#elif-t-ku%C5%9F) |
 | 4  | 25.03.2019, Pazartesi | [Büşra Deniz Akın](#büşra-deniz-akın) |
 | 5  | 01.04.2019, Pazartesi | [Yeşim Başaran](#yeşim-başaran) |
