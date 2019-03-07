@@ -1,3 +1,9 @@
+```
+ÖNEMLİ DUYURU: Programımızın 2. etkinlik tarihi değişmiştir. 
+Etkinliğimiz 12 Mart Salı saat 19:00-21:30 arası Microsoft'un 
+Levent'teki ofisinde gerçekleşecektir.
+```
+
 # SCTurkey Kadın Yazılımcı Destekleme Programı, Sezon 1
 
 _Her fırtına bir damla yağmur ile başlar..._
@@ -169,7 +175,7 @@ Gamze Boz, ODTÜ'den Bilgisayar Mühendisliği Lisans Derecesi ile mezun oldu. �
 | No | Tarih | Söyleşi Konuşmacı |
 |:--- |:--- |:--- |
 | 1  | 04.03.2019, Pazartesi | [Neslihan Şirin Saygılı](#neslihan-şirin-saygılı) |
-| 2  | 11.03.2019, Pazartesi | - |
+| 2  | 12.03.2019, Salı | - |
 | 3  | 19.03.2019, Salı | [Elif T. Kuş](#elif-t-ku%C5%9F) |
 | 4  | 25.03.2019, Pazartesi | [Büşra Deniz Akın](#büşra-deniz-akın) |
 | 5  | 01.04.2019, Pazartesi | [Yeşim Başaran](#yeşim-başaran) |
