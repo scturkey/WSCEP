@@ -172,6 +172,11 @@ Doktorasını Purdue Üniversitesi Bilgisayar Mühendisliği bölümünde Fulbri
 ### [Gamze Boz](https://www.linkedin.com/in/gamze-boz-3a9278147)
 Gamze Boz, ODTÜ'den Bilgisayar Mühendisliği Lisans Derecesi ile mezun oldu. İlk iş deneyimini Cybersoft'da kazandı; arkasından beş yıla yakın süre Ziraat Teknoloji'de yazılım mühendisi olarak çalıştı. Bu sürede, temel bankacılık sistemleri ve İnternet bankacılığı üzerinde çalıştı. Sonrasında, sektör değişikliği yaparak Turkcell'e geçti; toplamda on yılı aşkın bir süre Turkcell ve Turkcell Teknoloji'de yazılım uzmanı ve yazılım mimarlığı rolleri aldı. Tasarım ve kodlama standartları, kurumsal mimari, proje yönetimi konularında çalıştı. Kampanya yönetimi, kalite yönetimi ve tedarikçi yönetimine destek ve danışmanlık sağladı. İş ihtiyaçlarının yazılım ürünlerine dönüşmesinde, tasarım, teknik çözüm ve çözüm mimarisi konularında rol aldı. Yaklaşık bir yıldır Hayat Varlık'ta yazılım geliştirme yöneticisi olarak çalışıyor.
 
+### [Dilek Duman](https://www.linkedin.com/in/dilek-duman-435368a/)
+1997 yılında DenizBank Finansal Hizmetler Grubu’na katılan Dilek Duman, 1997-2004 tarihleri arasında Bilgi Teknolojileri Grup Müdürü, 2004-2008 tarihleri arasında Intertech Genel Müdürü olarak görev yaptıktan sonra 1 Ocak 2009’dan itibaren DenizBank Bilgi Teknolojileri ve Destek Operasyonları Genel Müdür Yardımcısı olarak çalışmaktadır. Kariyer hayatına 1989 yılında yazılım mühendisi olarak başlayan Dilek Duman, 1993 senesine kadar Intertech bünyesinde Teknik Danışman olarak görev almıştır. Dilek Duman lisans derecesini Boğaziçi Üniversitesi Bilgisayar Mühendisliği bölümünde tamamlamıştır. Dilek Duman, Intertech, Merkezi Operasyon, Kart Operasyonları bölümlerini yönetmektedir.
+
+ 
+
 | No | Tarih | Söyleşi Konuşmacı |
 |:--- |:--- |:--- |
 | 1  | 04.03.2019, Pazartesi | [Neslihan Şirin Saygılı](#neslihan-şirin-saygılı) |
@@ -184,7 +189,7 @@ Gamze Boz, ODTÜ'den Bilgisayar Mühendisliği Lisans Derecesi ile mezun oldu. �
 | 8  | 11.04.2019, Perşembe | [Gamze Boz](#gamze-boz) |
 | 6 seans 2 | 20.04.2019, Cumartesi | Ayşe Bilge Gündüz  |
 | 9  | 29.04.2019, Pazartesi | Pınar Soyata |
-| 10 | 02.05.2019, Perşembe | Dilek Duman |
+| 10 | 02.05.2019, Perşembe | [Dilek Duman](#dilek-duman) |
 
 Söyleşiler etkinliklerin son 40 dakikası gerçekleşecektir. Yeni konuşmacılarımız önümüzdeki günlerde duyurulacaktır.
 
