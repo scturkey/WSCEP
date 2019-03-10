@@ -31,6 +31,7 @@ Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar g
   * [Sosyal Medyada Duyuru](#sosyal-medyada-duyuru)
   * [İletişim](#ileti%C5%9Fim)
   * [Duyurular](#duyurular)
+  * [Etkinliklerden Görüntüler](#etkinliklerden-görüntüler)
 
 ## Katılım için Koşullar
 
