@@ -72,9 +72,9 @@ Yoğun ilgi nedeniyle kontenjan **140 kişi** olarak belirlenmiştir.
 
 Etkinliklerimizde başlangıç seviyesi konulardan daha ziyade, deneyimler ile derinleşmiş daha ileri teknikler ve konuların konuşulması planlanmaktadır.
 
-| No | Tarih | Konu | Yer | Saat | Etkinlikten Görüntüler |
-| --- | --- | --- | --- | --- | --- |
-| 1  | 04.03.2019, Pazartesi | [Agile & Scrum: Çevik Olmak Neden Bu Kadar Zor?](#etkinlik-1-agile--scrum-%C3%A7evik-olmak-neden-bu-kadar-zor) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 | [1. etkinlikten görüntüler](wscep01/e01-20190304/episode01.md)
+| No | Tarih | Konu | Yer | Saat 
+| --- | --- | --- | --- | --- | 
+| 1  | 04.03.2019, Pazartesi | [Agile & Scrum: Çevik Olmak Neden Bu Kadar Zor?](#etkinlik-1-agile--scrum-%C3%A7evik-olmak-neden-bu-kadar-zor) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
 | 2  | 12.03.2019, Salı | [Software Craftsmanship: Yazılım Geliştirmede Etik ve Profesyonellik](#etkinlik-2-software-craftsmanship-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirmede-etik-ve-profesyonellik) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
 | 3  | 19.03.2019, Salı | [Yazılım Geliştirmede Çöp Kavramı ve Temizleme Yöntemleri](#etkinlik-3-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirmede-%C3%A7%C3%B6p-kavram%C4%B1-ve-temizleme-y%C3%B6ntemleri) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
 | 4  | 25.03.2019, Pazartesi | [Yazılım Ekipleri için Yazılım Geliştirme Kültürü](#etkinlik-4-yaz%C4%B1l%C4%B1m-ekipleri-i%C3%A7in-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirme-k%C3%BClt%C3%BCr%C3%BC) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
@@ -285,3 +285,7 @@ Her tür soru, yorum ve öneriniz için [info@scturkey.org](mailto:info@scturkey
 Tüm duyurular [SCTurkey'in Twitter hesabından](https://twitter.com/scturkey) gerçekleşecek. Hesabımızı takip edebilirsiniz.
 
 [[^]](#i%C3%A7erik "Sayfa Başına Git")
+
+## Etkinliklerden Görüntüler
+
+[Google Photos Albümümüzden](https://photos.app.goo.gl/HrgM5QFDWSX4Vg8U8) etkinliklerin resimlere erişebilirsiniz.
