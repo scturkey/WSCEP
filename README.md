@@ -289,4 +289,4 @@ Tüm duyurular [SCTurkey'in Twitter hesabından](https://twitter.com/scturkey) g
 
 ## Etkinliklerden Görüntüler
 
-[Google Photos Albümümüzden](https://photos.app.goo.gl/HrgM5QFDWSX4Vg8U8) etkinliklerin resimlere erişebilirsiniz.
+[Google Photos Albümümüzden](https://photos.app.goo.gl/HrgM5QFDWSX4Vg8U8) etkinliklerin fotoğraflarına erişebilirsiniz.
