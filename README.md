@@ -92,7 +92,7 @@ Etkinliklerimizde başlangıç seviyesi konulardan daha ziyade, deneyimler ile d
 Bu etkinlikte çeviklik kavramından, startup ve kurumsal dünyadaki farklılıklarından, yazılım doğasına yaklaşımından ve sıkça içine düşülen yanlışlardan bahsedilecek. Scrum çerçevesinin çevikliğe olan etkisine, pratikte yapılması ve yapılmaması gerekenlere de değinilecek. Özellikle yazılımcı olarak bizi bekleyen zihniyet değişiminin yapıtaşları ile deneyimlerimiz aktarılacak.
 
 ### Etkinlik 2. Software Craftsmanship: Yazılım Geliştirmede Etik ve Profesyonellik
-**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 11.03.2019, Pazartesi **Saat:** 19:00 - 21:30
+**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 12.03.2019, Salı **Saat:** 19:00 - 21:30
 
 Bu etkinlikte yazılım geliştirmede etik ve profesyonellik kavramlarından bahsedilecek. Yazılım dünyasında unutulmaması gereken etik kuralları, bir meslek olarak yazılım geliştirme ve yazılımda ustalaşma yolculuğuna nasıl çıkabileceğimiz işlenecek konular arasında.
 
