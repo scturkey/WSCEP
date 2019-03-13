@@ -1,9 +1,3 @@
-```
-ÖNEMLİ DUYURU: Programımızın 2. etkinlik tarihi değişmiştir. 
-Etkinliğimiz 12 Mart Salı saat 19:00-21:30 arası Microsoft'un 
-Levent'teki ofisinde gerçekleşecektir.
-```
-
 # SCTurkey Kadın Yazılımcı Destekleme Programı, Sezon 1
 
 _Her fırtına bir damla yağmur ile başlar..._
