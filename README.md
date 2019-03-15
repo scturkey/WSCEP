@@ -74,9 +74,9 @@ Etkinliklerimizde başlangıç seviyesi konulardan daha ziyade, deneyimler ile d
 | 3  | 19.03.2019, Salı | [Yazılım Geliştirmede Çöp Kavramı ve Temizleme Yöntemleri](#etkinlik-3-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirmede-%C3%A7%C3%B6p-kavram%C4%B1-ve-temizleme-y%C3%B6ntemleri) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
 | 4  | 25.03.2019, Pazartesi | [Yazılım Ekipleri için Yazılım Geliştirme Kültürü](#etkinlik-4-yaz%C4%B1l%C4%B1m-ekipleri-i%C3%A7in-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirme-k%C3%BClt%C3%BCr%C3%BC) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
 | 5  | 01.04.2019, Pazartesi  | [TDD, Automated Testing, Canlı TDD Deneyimi](#etkinlik-5-tdd-automated-testing-canl%C4%B1-tdd-deneyimi) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
-| 6  | 06.04.2019, Cumartesi / 20.04.2019, Cumartesi | [Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat](#etkinlik-6-t%C3%BCm-g%C3%BCn-s%C3%BCrecek-tdd-ve-e%C5%9Fli-programlama-at%C3%B6lyesi-code-retreat) | Açıklanacak | 09:30-16:30 |
-| 7  | 08.04.2019, Pazartesi | [Pair Programming & Code Review: Yazılım Ustasının El Kitabı](#etkinlik-7-pair-programming--code-review-yaz%C4%B1l%C4%B1m-ustas%C4%B1n%C4%B1n-el-kitab%C4%B1) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
-| 8  | 11.04.2019, Perşembe | [Temiz Kod Tasarım Pratikleri](#etkinlik-8-temiz-kod-tasar%C4%B1m-pratikleri) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
+| 6  | 08.04.2019, Pazartesi | [Pair Programming & Code Review: Yazılım Ustasının El Kitabı](#etkinlik-7-pair-programming--code-review-yaz%C4%B1l%C4%B1m-ustas%C4%B1n%C4%B1n-el-kitab%C4%B1) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
+| 7  | 11.04.2019, Perşembe | [Temiz Kod Tasarım Pratikleri](#etkinlik-8-temiz-kod-tasar%C4%B1m-pratikleri) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
+| 8  | 21.04.2019, Pazar | [Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat](#etkinlik-6-t%C3%BCm-g%C3%BCn-s%C3%BCrecek-tdd-ve-e%C5%9Fli-programlama-at%C3%B6lyesi-code-retreat) | [Microsoft](#eğitim-mekanı) | 09:00-16:30 |
 | 9  | 29.04.2019, Pazartesi | [Profesyoneller için Git](#etkinlik-9-profesyoneller-i%C3%A7in-git)  | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
 | 10 | 02.05.2019, Perşembe | [Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İpuçları](#etkinlik-10-yaz%C4%B1l%C4%B1mc%C4%B1lar-i%C3%A7in-topluluk-%C3%B6n%C3%BCnde-konu%C5%9Fma-ve-sunum-haz%C4%B1rlaman%C4%B1n-ipu%C3%A7lar%C4%B1) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
 
@@ -179,10 +179,9 @@ Gamze Boz, ODTÜ'den Bilgisayar Mühendisliği Lisans Derecesi ile mezun oldu. �
 | 3  | 19.03.2019, Salı | [Elif T. Kuş](#elif-t-ku%C5%9F) |
 | 4  | 25.03.2019, Pazartesi | [Büşra Deniz Akın](#büşra-deniz-akın) |
 | 5  | 01.04.2019, Pazartesi | [Yeşim Başaran](#yeşim-başaran) |
-| 6 seans 1  | 06.04.2019, Cumartesi | [Kadriye Doğan](#kadriye-doğan) |
-| 7  | 08.04.2019, Pazartesi | [Pınar Yanardağ](#pınar-yanardağ) |
-| 8  | 11.04.2019, Perşembe | [Gamze Boz](#gamze-boz) |
-| 6 seans 2 | 20.04.2019, Cumartesi | Ayşe Bilge Gündüz  |
+| 6  | 08.04.2019, Pazartesi | [Pınar Yanardağ](#pınar-yanardağ) |
+| 7  | 11.04.2019, Perşembe | [Gamze Boz](#gamze-boz) |
+| 8  | 21.04.2019, Pazar | [Kadriye Doğan](#kadriye-doğan), Ayşe Bilge Gündüz  |
 | 9  | 29.04.2019, Pazartesi | Pınar Soyata |
 | 10 | 02.05.2019, Perşembe | [Dilek Duman](#dilek-duman) |
 
