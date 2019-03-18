@@ -105,30 +105,28 @@ Yazılım geliştirmek başlı başına bir ekip işidir. Ekipler sadece üretim
 
 Bu etkinliğimizde TDD, Automated Testing ve CI/CD süreçlerinden bahsedilecek. Akabinde bir kod kata ile TDD deneyimi yaşayacağız. Kod katayı canlı kodlama ile hep beraber yazacağız. Bilgisayarınızı getirmenize gerek yoktur.
 
-### Etkinlik 6. Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat
-**Seans 1:** **Yer:** Açıklanacak **Tarih:** 06.04.2019, Cumartesi **Saat:** 09:30 - 16:30
-
-**Seans 2:** **Yer:** Açıklanacak **Tarih:** 20.04.2019, Cumartesi **Saat:** 09:30 - 16:30
-
-Coderetreat atölyesi katılım durumuna göre 2 seans halinde gerçekleşecektir. Seanslardan birine katılmak kafidir. Bu etkinlikte bilgisayarınızı yanınızda getirmelisiniz. Tüm gün boyunca TDD ve eşli programlama ile bir oyun yazacağız. Birbirinden ilginç kısıtlamalar ile kod tasarımında farklı bakış açıları getirmeye çalışacağız.
-
-### Etkinlik 7. Pair Programming & Code Review: Yazılım Ustasının El Kitabı
+### Etkinlik 6. Pair Programming & Code Review: Yazılım Ustasının El Kitabı
 **Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 08.04.2019, Pazartesi **Saat:** 19:00 - 21:30
 
 Eşli programlama ve kod inceleme, yazılım süreçleri içerisinde yer alan, sosyal beceri isteyen, kaliteye doğrudan etki edebilen, deneyimler ile ustalaşabilen çok özel pratiklerdir. Bu pratiklere senelerini veren konuşmacılarımız tüm deneyimlerini katılımcılarımız ile paylaşacaklar.
 
-### Etkinlik 8. Temiz Kod Tasarım Pratikleri
+### Etkinlik 7. Temiz Kod Tasarım Pratikleri
 **Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 11.04.2019, Perşembe **Saat:** 19:00 - 21:30
 
 Yazılımcıların başını ağrıtan belki de en büyük sorun yazılım kalitesinin düşük olmasıdır. Yazılımı kaliteli yapan şeylerin başında temiz olması gelir. Bu etkinlikte hem mimari hem de kod açısından temiz olmak ne demek, nasıl olunur sorularına cevap arayacağız.
 
+### Etkinlik 8. Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat
+**Yer:** Microsoft **Tarih:** 21.04.2019, Pazar **Saat:** 09:30 - 16:30
+
+Coderetreat atölyesi katılım durumuna göre 2 seans halinde gerçekleşecektir. Seanslardan birine katılmak kafidir. Bu etkinlikte bilgisayarınızı yanınızda getirmelisiniz. Tüm gün boyunca TDD ve eşli programlama ile bir oyun yazacağız. Birbirinden ilginç kısıtlamalar ile kod tasarımında farklı bakış açıları getirmeye çalışacağız.
+
 ### Etkinlik 9. Profesyoneller için Git
-**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 15.04.2019, Pazartesi **Saat:** 19:00 - 21:30
+**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 29.04.2019, Pazartesi **Saat:** 19:00 - 21:30
 
 Git sadece bir versiyon kontrol sistemi değil, tüm gücü ile yazılım süreçlerimizi şekillendirebilen çok önemli bir araçtır. Doğru kullanabilmek için hem Git'in iç çalışma yapısını iyi anlamalı, hem de akış modellerinin verimliğini yüksek tutmalıyız. Bu etkinlikte tüm yönleri ile Git'i ele alacak ve deneyimler ışığında ipuçları paylaşacağız.
 
 ### Etkinlik 10. Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İpuçları
-**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 29.04.2019, Pazartesi **Saat:** 19:00 - 21:30
+**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 02.05.2019, Pazartesi **Saat:** 19:00 - 21:30
 
 İnsanlar önünde konuşmak, çoğunlukla korkularımız arasında en üst sıralarda yer alır. Ancak bir yazılımcı olarak sunum hazırlamak, konuşma yapmak, insanlara bir konuda derinlemesine bilgi aktarmak sıradan iş hayatımızın ayrılmaz bir parçasıdır. Bu konuda deneyimli konuşmacılarımız sizlere onlarca pratik ipucu aktaracak ve katılımcıların korkularını yenmesi için yeni yöntemler iletecek.
 
