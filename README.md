@@ -16,6 +16,7 @@ Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar g
   * [Sertifika](#sertifika)
   * [Söyleşi Konuşmacılarımız](#s%C3%B6yle%C5%9Fi-konu%C5%9Fmac%C4%B1lar%C4%B1m%C4%B1z)
   * [Eğitim Konuşmacımız](#e%C4%9Fitim-konu%C5%9Fmac%C4%B1m%C4%B1z)
+  * [TDD Atölyesi Mentörleri](#TDD-Atölyesi-Mentörleri)
   * [Etkinlik Sonrası Görevler](#etkinlik-sonras%C4%B1-g%C3%B6revler)
   * [Etkinlik Dili](#etkinlik-dili)
   * [Eğitim Mekanı](#e%C4%9Fitim-mekan%C4%B1)
@@ -74,9 +75,9 @@ Etkinliklerimizde başlangıç seviyesi konulardan daha ziyade, deneyimler ile d
 | 3  | 19.03.2019, Salı | [Yazılım Geliştirmede Çöp Kavramı ve Temizleme Yöntemleri](#etkinlik-3-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirmede-%C3%A7%C3%B6p-kavram%C4%B1-ve-temizleme-y%C3%B6ntemleri) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
 | 4  | 25.03.2019, Pazartesi | [Yazılım Ekipleri için Yazılım Geliştirme Kültürü](#etkinlik-4-yaz%C4%B1l%C4%B1m-ekipleri-i%C3%A7in-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirme-k%C3%BClt%C3%BCr%C3%BC) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
 | 5  | 01.04.2019, Pazartesi  | [TDD, Automated Testing, Canlı TDD Deneyimi](#etkinlik-5-tdd-automated-testing-canl%C4%B1-tdd-deneyimi) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
-| 6  | 08.04.2019, Pazartesi | [Pair Programming & Code Review: Yazılım Ustasının El Kitabı](#etkinlik-7-pair-programming--code-review-yaz%C4%B1l%C4%B1m-ustas%C4%B1n%C4%B1n-el-kitab%C4%B1) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
-| 7  | 11.04.2019, Perşembe | [Temiz Kod Tasarım Pratikleri](#etkinlik-8-temiz-kod-tasar%C4%B1m-pratikleri) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
-| 8  | 21.04.2019, Pazar | [Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat](#etkinlik-6-t%C3%BCm-g%C3%BCn-s%C3%BCrecek-tdd-ve-e%C5%9Fli-programlama-at%C3%B6lyesi-code-retreat) | [Microsoft](#eğitim-mekanı) | 09:00-16:30 |
+| 6  | 06.04.2019, Cumartesi | [Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat](#etkinlik-6-t%C3%BCm-g%C3%BCn-s%C3%BCrecek-tdd-ve-e%C5%9Fli-programlama-at%C3%B6lyesi-code-retreat) | [Microsoft](#eğitim-mekanı) | 09:00-16:30 |
+| 7  | 08.04.2019, Pazartesi | [Pair Programming & Code Review: Yazılım Ustasının El Kitabı](#etkinlik-7-pair-programming--code-review-yaz%C4%B1l%C4%B1m-ustas%C4%B1n%C4%B1n-el-kitab%C4%B1) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
+| 8  | 11.04.2019, Perşembe | [Temiz Kod Tasarım Pratikleri](#etkinlik-8-temiz-kod-tasar%C4%B1m-pratikleri) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
 | 9  | 29.04.2019, Pazartesi | [Profesyoneller için Git](#etkinlik-9-profesyoneller-i%C3%A7in-git)  | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
 | 10 | 02.05.2019, Perşembe | [Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İpuçları](#etkinlik-10-yaz%C4%B1l%C4%B1mc%C4%B1lar-i%C3%A7in-topluluk-%C3%B6n%C3%BCnde-konu%C5%9Fma-ve-sunum-haz%C4%B1rlaman%C4%B1n-ipu%C3%A7lar%C4%B1) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
 
@@ -105,20 +106,20 @@ Yazılım geliştirmek başlı başına bir ekip işidir. Ekipler sadece üretim
 
 Bu etkinliğimizde TDD, Automated Testing ve CI/CD süreçlerinden bahsedilecek. Akabinde bir kod kata ile TDD deneyimi yaşayacağız. Kod katayı canlı kodlama ile hep beraber yazacağız. Bilgisayarınızı getirmenize gerek yoktur.
 
-### Etkinlik 6. Pair Programming & Code Review: Yazılım Ustasının El Kitabı
+### Etkinlik 6. Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat
+**Yer:** Microsoft **Tarih:** 06.04.2019, Cumartesi **Saat:** 09:30 - 16:30
+
+Coderetreat atölyesinde **bilgisayarınızı yanınızda mutlaka getirmelisiniz**. Tüm gün boyunca TDD ve eşli programlama ile bir oyun yazacağız. Birbirinden ilginç kısıtlamalar ile kod tasarımında farklı bakış açıları getirmeye çalışacağız. Aktif kodlama yapacak, test yazacağız.
+
+### Etkinlik 7. Pair Programming & Code Review: Yazılım Ustasının El Kitabı
 **Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 08.04.2019, Pazartesi **Saat:** 19:00 - 21:30
 
 Eşli programlama ve kod inceleme, yazılım süreçleri içerisinde yer alan, sosyal beceri isteyen, kaliteye doğrudan etki edebilen, deneyimler ile ustalaşabilen çok özel pratiklerdir. Bu pratiklere senelerini veren konuşmacılarımız tüm deneyimlerini katılımcılarımız ile paylaşacaklar.
 
-### Etkinlik 7. Temiz Kod Tasarım Pratikleri
+### Etkinlik 8. Temiz Kod Tasarım Pratikleri
 **Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 11.04.2019, Perşembe **Saat:** 19:00 - 21:30
 
 Yazılımcıların başını ağrıtan belki de en büyük sorun yazılım kalitesinin düşük olmasıdır. Yazılımı kaliteli yapan şeylerin başında temiz olması gelir. Bu etkinlikte hem mimari hem de kod açısından temiz olmak ne demek, nasıl olunur sorularına cevap arayacağız.
-
-### Etkinlik 8. Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat
-**Yer:** Microsoft **Tarih:** 21.04.2019, Pazar **Saat:** 09:30 - 16:30
-
-Coderetreat atölyesi katılım durumuna göre 2 seans halinde gerçekleşecektir. Seanslardan birine katılmak kafidir. Bu etkinlikte bilgisayarınızı yanınızda getirmelisiniz. Tüm gün boyunca TDD ve eşli programlama ile bir oyun yazacağız. Birbirinden ilginç kısıtlamalar ile kod tasarımında farklı bakış açıları getirmeye çalışacağız.
 
 ### Etkinlik 9. Profesyoneller için Git
 **Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 29.04.2019, Pazartesi **Saat:** 19:00 - 21:30
@@ -177,9 +178,9 @@ Gamze Boz, ODTÜ'den Bilgisayar Mühendisliği Lisans Derecesi ile mezun oldu. �
 | 3  | 19.03.2019, Salı | [Elif T. Kuş](#elif-t-ku%C5%9F) |
 | 4  | 25.03.2019, Pazartesi | [Büşra Deniz Akın](#büşra-deniz-akın) |
 | 5  | 01.04.2019, Pazartesi | [Yeşim Başaran](#yeşim-başaran) |
-| 6  | 08.04.2019, Pazartesi | [Pınar Yanardağ](#pınar-yanardağ) |
-| 7  | 11.04.2019, Perşembe | [Gamze Boz](#gamze-boz) |
-| 8  | 21.04.2019, Pazar | [Kadriye Doğan](#kadriye-doğan), Ayşe Bilge Gündüz  |
+| 6  | 06.04.2019, Cumartesi | [Kadriye Doğan](#kadriye-doğan), Ayşe Bilge Gündüz  |
+| 7  | 08.04.2019, Pazartesi | [Pınar Yanardağ](#pınar-yanardağ) |
+| 8  | 11.04.2019, Perşembe | [Gamze Boz](#gamze-boz) |
 | 9  | 29.04.2019, Pazartesi | Pınar Soyata |
 | 10 | 02.05.2019, Perşembe | [Dilek Duman](#dilek-duman) |
 
@@ -187,7 +188,7 @@ Söyleşiler etkinliklerin son 40 dakikası gerçekleşecektir. Yeni konuşmacı
 
 [[^]](#i%C3%A7erik "Sayfa Başına Git")
 
-### Eğitim Konuşmacımız
+## Eğitim Konuşmacımız
 
 Etkinliklerin ilk bir buçuk saati eğitim ile geçecektir. Eğitmenleri şu şekilde listeleyebiliriz. 
 
@@ -195,6 +196,11 @@ Etkinliklerin ilk bir buçuk saati eğitim ile geçecektir. Eğitmenleri şu şe
 2001 senesinden bu yana aktif olarak yazılım geliştiren bir bilgisayar mühendisidir. Kariyeri boyunca onlarca kurumsal firmaya danışmanlık vermiş, eBay, Sony, ACM ve iyzico'da yazılım mimarı, yazılım ustası, teknik lider, takım lideri, teknik koordinator, Scrum Master ve agile koç olarak görev almıştır. Yazılım takımlarında yazılım kültürün kurulması, devamı ve sürdürülebilirliği konularında liderlik etmiştir. 2018 yılı içerisinde Hakan Erdoğan ve Sabri Onur Tüzün ile birlikte Craftbase’i kurmuştur. Halen sektör için kritik öneme sahip yazılımlar geliştirmeye devam etmektedir. 
 
 [[^]](#i%C3%A7erik "Sayfa Başına Git")
+
+## TDD Atölyesi Mentörleri
+
+### [Umut Işık](https://www.linkedin.com/in/isikumut/)
+Umut Işık Orta Doğu Teknik Üniversitesi bilgisayar mühendisliği bölümü mezunudur. 2001 yılından beri devam eden iş hayatında birçok farklı projede çalıştı. Kariyerinin son yıllarında ellerini kirletmeyi bırakmadan ekip yöneticiliği yapmaya çalışıyor. Bilgi paylaşmanın hayatta insanın sahip olacağı en önemli erdem olduğuna inanıyor ve paylaşımın iki tarafında da olmayı ihmal etmemeye çalışıyor.
 
 ## Etkinlik Sonrası Görevler
 
