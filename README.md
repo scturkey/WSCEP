@@ -176,9 +176,9 @@ Gamze Boz, ODTÜ'den Bilgisayar Mühendisliği Lisans Derecesi ile mezun oldu. �
 | 1  | 04.03.2019, Pazartesi | [Neslihan Şirin Saygılı](#neslihan-şirin-saygılı) |
 | 2  | 12.03.2019, Salı | - |
 | 3  | 19.03.2019, Salı | [Elif T. Kuş](#elif-t-ku%C5%9F) |
-| 4  | 25.03.2019, Pazartesi | [Büşra Deniz Akın](#büşra-deniz-akın) |
+| 4  | 25.03.2019, Pazartesi | [Büşra Deniz Akın](#büşra-deniz-akın), [Kadriye Doğan](#kadriye-doğan) |
 | 5  | 01.04.2019, Pazartesi | [Yeşim Başaran](#yeşim-başaran) |
-| 6  | 06.04.2019, Cumartesi | [Kadriye Doğan](#kadriye-doğan), Ayşe Bilge Gündüz  |
+| 6  | 06.04.2019, Cumartesi | Ayşe Bilge Gündüz  |
 | 7  | 08.04.2019, Pazartesi | [Pınar Yanardağ](#pınar-yanardağ) |
 | 8  | 11.04.2019, Perşembe | [Gamze Boz](#gamze-boz) |
 | 9  | 29.04.2019, Pazartesi | Pınar Soyata |
