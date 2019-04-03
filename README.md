@@ -266,7 +266,7 @@ Ana destekçilerimiz etkinlikler boyunca bizimle olacaklar. Katılımcılarımı
 ### Destekçi Topluluklar
 
 * [DevNot](http://devnot.com)
-* [Istanbul Jug](https://istanbul-jug.org)
+* [Istanbul Jug](http://javausergroup.istanbul)
 * [Kodluyoruz Derneği](https://www.kodluyoruz.org/)
 
 [[^]](#i%C3%A7erik "Sayfa Başına Git")
