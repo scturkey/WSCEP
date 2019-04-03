@@ -169,7 +169,8 @@ Gamze Boz, ODTÜ'den Bilgisayar Mühendisliği Lisans Derecesi ile mezun oldu. �
 ### [Dilek Duman](https://www.linkedin.com/in/dilek-duman-435368a/)
 1997 yılında DenizBank Finansal Hizmetler Grubu’na katılan Dilek Duman, 1997-2004 tarihleri arasında Bilgi Teknolojileri Grup Müdürü, 2004-2008 tarihleri arasında Intertech Genel Müdürü olarak görev yaptıktan sonra 1 Ocak 2009’dan itibaren DenizBank Bilgi Teknolojileri ve Destek Operasyonları Genel Müdür Yardımcısı olarak çalışmaktadır. Kariyer hayatına 1989 yılında yazılım mühendisi olarak başlayan Dilek Duman, 1993 senesine kadar Intertech bünyesinde Teknik Danışman olarak görev almıştır. Dilek Duman lisans derecesini Boğaziçi Üniversitesi Bilgisayar Mühendisliği bölümünde tamamlamıştır. Dilek Duman, Intertech, Merkezi Operasyon, Kart Operasyonları bölümlerini yönetmektedir.
 
- 
+### [Ayşe Bilge Gündüz](https://www.linkedin.com/in/aysebilgegunduz)
+Yüksek Lisansını İstanbul Teknik Üniversitesi'nde tamamladı ve ardından Yıldız Teknik Üniversitesi'nde doktoraya başladı. Doktorasına halen devam ediyor ve bunun yanı sıra çeşitli makine öğrenmesi ve yapay zeka projelerinde çalışmaktadır. Aynı zamanda 2013'ten bu yana Yıldız Teknik Üniversitesinde araştırma görevlisi olarak çalışmaktadır. Akademinin yanı sıra, gönüllü olarak her yıl Linux Yaz Kampında çalışıyor olmasının yanı sıra, Almanya'da bilişim sektöründe kadınları desteklemek ve cesaretlendirmek amacını taşıyan Informatica Feminale etkinliğinde de eğitmenlik yapmıştır. Ek olarak, CodeLikeAGirl ve Kadın Yazılımcı bloglarında olabildiğince aktif bir şekilde yazılar yazmaktadır. 
 
 | No | Tarih | Söyleşi Konuşmacı |
 |:--- |:--- |:--- |
@@ -178,7 +179,7 @@ Gamze Boz, ODTÜ'den Bilgisayar Mühendisliği Lisans Derecesi ile mezun oldu. �
 | 3  | 19.03.2019, Salı | [Elif T. Kuş](#elif-t-ku%C5%9F) |
 | 4  | 25.03.2019, Pazartesi | [Büşra Deniz Akın](#büşra-deniz-akın) |
 | 5  | 01.04.2019, Pazartesi | [Yeşim Başaran](#yeşim-başaran) |
-| 6  | 06.04.2019, Cumartesi | Ayşe Bilge Gündüz  |
+| 6  | 06.04.2019, Cumartesi | [Ayşe Bilge Gündüz](#ayşe-bilge-gündüz)  |
 | 7  | 08.04.2019, Pazartesi | [Pınar Yanardağ](#pınar-yanardağ) |
 | 8  | 11.04.2019, Perşembe | [Gamze Boz](#gamze-boz) |
 | 9  | 29.04.2019, Pazartesi | Pınar Soyata |
@@ -239,6 +240,10 @@ Etkinlik takviminde 6. hafta olarak belirtilen ve katılım sayısına göre 2 s
 * [**Craftbase**](https://craftbase.io)
 * [**Prisync**](https://prisync.com/)
 * [**Safkan Yazılım**](https://www.safkanyazilim.com)
+* [**Trendyol**](http://www.trendyol.com)
+
+### Coderetreat Sponsorlarımız
+* [**Trendyol**](http://www.trendyol.com)
 
 ### Media Sponsorumuz:
 * [**Sherpa Blog**](https://sherpa.blog)
