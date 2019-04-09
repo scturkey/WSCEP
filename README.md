@@ -127,7 +127,7 @@ Yazılımcıların başını ağrıtan belki de en büyük sorun yazılım kalit
 Git sadece bir versiyon kontrol sistemi değil, tüm gücü ile yazılım süreçlerimizi şekillendirebilen çok önemli bir araçtır. Doğru kullanabilmek için hem Git'in iç çalışma yapısını iyi anlamalı, hem de akış modellerinin verimliğini yüksek tutmalıyız. Bu etkinlikte tüm yönleri ile Git'i ele alacak ve deneyimler ışığında ipuçları paylaşacağız.
 
 ### Etkinlik 10. Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İpuçları
-**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 02.05.2019, Pazartesi **Saat:** 19:00 - 21:30
+**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 02.05.2019, Perşembe **Saat:** 19:00 - 21:30
 
 İnsanlar önünde konuşmak, çoğunlukla korkularımız arasında en üst sıralarda yer alır. Ancak bir yazılımcı olarak sunum hazırlamak, konuşma yapmak, insanlara bir konuda derinlemesine bilgi aktarmak sıradan iş hayatımızın ayrılmaz bir parçasıdır. Bu konuda deneyimli konuşmacılarımız sizlere onlarca pratik ipucu aktaracak ve katılımcıların korkularını yenmesi için yeni yöntemler iletecek.
 
