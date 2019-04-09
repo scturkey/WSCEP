@@ -1,9 +1,3 @@
-```
-ÖNEMLİ DUYURU: Programımızın 2. etkinlik tarihi değişmiştir. 
-Etkinliğimiz 12 Mart Salı saat 19:00-21:30 arası Microsoft'un 
-Levent'teki ofisinde gerçekleşecektir.
-```
-
 # SCTurkey Kadın Yazılımcı Destekleme Programı, Sezon 1
 
 _Her fırtına bir damla yağmur ile başlar..._
@@ -22,6 +16,7 @@ Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar g
   * [Sertifika](#sertifika)
   * [Söyleşi Konuşmacılarımız](#s%C3%B6yle%C5%9Fi-konu%C5%9Fmac%C4%B1lar%C4%B1m%C4%B1z)
   * [Eğitim Konuşmacımız](#e%C4%9Fitim-konu%C5%9Fmac%C4%B1m%C4%B1z)
+  * [TDD Atölyesi Mentörleri](#TDD-Atölyesi-Mentörleri)
   * [Etkinlik Sonrası Görevler](#etkinlik-sonras%C4%B1-g%C3%B6revler)
   * [Etkinlik Dili](#etkinlik-dili)
   * [Eğitim Mekanı](#e%C4%9Fitim-mekan%C4%B1)
@@ -79,8 +74,8 @@ Etkinliklerimizde başlangıç seviyesi konulardan daha ziyade, deneyimler ile d
 | 2  | 12.03.2019, Salı | [Software Craftsmanship: Yazılım Geliştirmede Etik ve Profesyonellik](#etkinlik-2-software-craftsmanship-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirmede-etik-ve-profesyonellik) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
 | 3  | 19.03.2019, Salı | [Yazılım Geliştirmede Çöp Kavramı ve Temizleme Yöntemleri](#etkinlik-3-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirmede-%C3%A7%C3%B6p-kavram%C4%B1-ve-temizleme-y%C3%B6ntemleri) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
 | 4  | 25.03.2019, Pazartesi | [Yazılım Ekipleri için Yazılım Geliştirme Kültürü](#etkinlik-4-yaz%C4%B1l%C4%B1m-ekipleri-i%C3%A7in-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirme-k%C3%BClt%C3%BCr%C3%BC) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
-| 5  | 01.04.2019, Pazartesi  | [TDD, Automated Testing, Canlı TDD Deneyimi](#etkinlik-5-tdd-automated-testing-canl%C4%B1-tdd-deneyimi) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
-| 6  | 06.04.2019, Cumartesi / 20.04.2019, Cumartesi | [Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat](#etkinlik-6-t%C3%BCm-g%C3%BCn-s%C3%BCrecek-tdd-ve-e%C5%9Fli-programlama-at%C3%B6lyesi-code-retreat) | Açıklanacak | 09:30-16:30 |
+| 5  | 01.04.2019, Pazartesi  | [SDLC süreçleri, CI/CD Pipeline, Automated Testing](#etkinlik-5-tdd-automated-testing-canl%C4%B1-tdd-deneyimi) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
+| 6  | 06.04.2019, Cumartesi | [Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat](#etkinlik-6-t%C3%BCm-g%C3%BCn-s%C3%BCrecek-tdd-ve-e%C5%9Fli-programlama-at%C3%B6lyesi-code-retreat) | [Microsoft](#eğitim-mekanı) | 09:00-16:30 |
 | 7  | 08.04.2019, Pazartesi | [Pair Programming & Code Review: Yazılım Ustasının El Kitabı](#etkinlik-7-pair-programming--code-review-yaz%C4%B1l%C4%B1m-ustas%C4%B1n%C4%B1n-el-kitab%C4%B1) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
 | 8  | 11.04.2019, Perşembe | [Temiz Kod Tasarım Pratikleri](#etkinlik-8-temiz-kod-tasar%C4%B1m-pratikleri) | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
 | 9  | 29.04.2019, Pazartesi | [Profesyoneller için Git](#etkinlik-9-profesyoneller-i%C3%A7in-git)  | [Microsoft](#eğitim-mekanı) | 19:00-21:30 |
@@ -92,7 +87,7 @@ Etkinliklerimizde başlangıç seviyesi konulardan daha ziyade, deneyimler ile d
 Bu etkinlikte çeviklik kavramından, startup ve kurumsal dünyadaki farklılıklarından, yazılım doğasına yaklaşımından ve sıkça içine düşülen yanlışlardan bahsedilecek. Scrum çerçevesinin çevikliğe olan etkisine, pratikte yapılması ve yapılmaması gerekenlere de değinilecek. Özellikle yazılımcı olarak bizi bekleyen zihniyet değişiminin yapıtaşları ile deneyimlerimiz aktarılacak.
 
 ### Etkinlik 2. Software Craftsmanship: Yazılım Geliştirmede Etik ve Profesyonellik
-**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 11.03.2019, Pazartesi **Saat:** 19:00 - 21:30
+**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 12.03.2019, Salı **Saat:** 19:00 - 21:30
 
 Bu etkinlikte yazılım geliştirmede etik ve profesyonellik kavramlarından bahsedilecek. Yazılım dünyasında unutulmaması gereken etik kuralları, bir meslek olarak yazılım geliştirme ve yazılımda ustalaşma yolculuğuna nasıl çıkabileceğimiz işlenecek konular arasında.
 
@@ -112,11 +107,9 @@ Yazılım geliştirmek başlı başına bir ekip işidir. Ekipler sadece üretim
 Bu etkinliğimizde TDD, Automated Testing ve CI/CD süreçlerinden bahsedilecek. Akabinde bir kod kata ile TDD deneyimi yaşayacağız. Kod katayı canlı kodlama ile hep beraber yazacağız. Bilgisayarınızı getirmenize gerek yoktur.
 
 ### Etkinlik 6. Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat
-**Seans 1:** **Yer:** Açıklanacak **Tarih:** 06.04.2019, Cumartesi **Saat:** 09:30 - 16:30
+**Yer:** Microsoft **Tarih:** 06.04.2019, Cumartesi **Saat:** 09:30 - 16:30
 
-**Seans 2:** **Yer:** Açıklanacak **Tarih:** 20.04.2019, Cumartesi **Saat:** 09:30 - 16:30
-
-Coderetreat atölyesi katılım durumuna göre 2 seans halinde gerçekleşecektir. Seanslardan birine katılmak kafidir. Bu etkinlikte bilgisayarınızı yanınızda getirmelisiniz. Tüm gün boyunca TDD ve eşli programlama ile bir oyun yazacağız. Birbirinden ilginç kısıtlamalar ile kod tasarımında farklı bakış açıları getirmeye çalışacağız.
+Coderetreat atölyesinde **bilgisayarınızı yanınızda mutlaka getirmelisiniz**. Tüm gün boyunca TDD ve eşli programlama ile bir oyun yazacağız. Birbirinden ilginç kısıtlamalar ile kod tasarımında farklı bakış açıları getirmeye çalışacağız. Aktif kodlama yapacak, test yazacağız.
 
 ### Etkinlik 7. Pair Programming & Code Review: Yazılım Ustasının El Kitabı
 **Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 08.04.2019, Pazartesi **Saat:** 19:00 - 21:30
@@ -129,12 +122,12 @@ Eşli programlama ve kod inceleme, yazılım süreçleri içerisinde yer alan, s
 Yazılımcıların başını ağrıtan belki de en büyük sorun yazılım kalitesinin düşük olmasıdır. Yazılımı kaliteli yapan şeylerin başında temiz olması gelir. Bu etkinlikte hem mimari hem de kod açısından temiz olmak ne demek, nasıl olunur sorularına cevap arayacağız.
 
 ### Etkinlik 9. Profesyoneller için Git
-**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 15.04.2019, Pazartesi **Saat:** 19:00 - 21:30
+**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 29.04.2019, Pazartesi **Saat:** 19:00 - 21:30
 
 Git sadece bir versiyon kontrol sistemi değil, tüm gücü ile yazılım süreçlerimizi şekillendirebilen çok önemli bir araçtır. Doğru kullanabilmek için hem Git'in iç çalışma yapısını iyi anlamalı, hem de akış modellerinin verimliğini yüksek tutmalıyız. Bu etkinlikte tüm yönleri ile Git'i ele alacak ve deneyimler ışığında ipuçları paylaşacağız.
 
 ### Etkinlik 10. Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İpuçları
-**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 29.04.2019, Pazartesi **Saat:** 19:00 - 21:30
+**Yer:** [Microsoft](#eğitim-mekanı) **Tarih:** 02.05.2019, Pazartesi **Saat:** 19:00 - 21:30
 
 İnsanlar önünde konuşmak, çoğunlukla korkularımız arasında en üst sıralarda yer alır. Ancak bir yazılımcı olarak sunum hazırlamak, konuşma yapmak, insanlara bir konuda derinlemesine bilgi aktarmak sıradan iş hayatımızın ayrılmaz bir parçasıdır. Bu konuda deneyimli konuşmacılarımız sizlere onlarca pratik ipucu aktaracak ve katılımcıların korkularını yenmesi için yeni yöntemler iletecek.
 
@@ -176,7 +169,8 @@ Gamze Boz, ODTÜ'den Bilgisayar Mühendisliği Lisans Derecesi ile mezun oldu. �
 ### [Dilek Duman](https://www.linkedin.com/in/dilek-duman-435368a/)
 1997 yılında DenizBank Finansal Hizmetler Grubu’na katılan Dilek Duman, 1997-2004 tarihleri arasında Bilgi Teknolojileri Grup Müdürü, 2004-2008 tarihleri arasında Intertech Genel Müdürü olarak görev yaptıktan sonra 1 Ocak 2009’dan itibaren DenizBank Bilgi Teknolojileri ve Destek Operasyonları Genel Müdür Yardımcısı olarak çalışmaktadır. Kariyer hayatına 1989 yılında yazılım mühendisi olarak başlayan Dilek Duman, 1993 senesine kadar Intertech bünyesinde Teknik Danışman olarak görev almıştır. Dilek Duman lisans derecesini Boğaziçi Üniversitesi Bilgisayar Mühendisliği bölümünde tamamlamıştır. Dilek Duman, Intertech, Merkezi Operasyon, Kart Operasyonları bölümlerini yönetmektedir.
 
- 
+### [Ayşe Bilge Gündüz](https://www.linkedin.com/in/aysebilgegunduz)
+Yüksek Lisansını İstanbul Teknik Üniversitesi'nde tamamladı ve ardından Yıldız Teknik Üniversitesi'nde doktoraya başladı. Doktorasına halen devam ediyor ve bunun yanı sıra çeşitli makine öğrenmesi ve yapay zeka projelerinde çalışmaktadır. Aynı zamanda 2013'ten bu yana Yıldız Teknik Üniversitesinde araştırma görevlisi olarak çalışmaktadır. Akademinin yanı sıra, gönüllü olarak her yıl Linux Yaz Kampında çalışıyor olmasının yanı sıra, Almanya'da bilişim sektöründe kadınları desteklemek ve cesaretlendirmek amacını taşıyan Informatica Feminale etkinliğinde de eğitmenlik yapmıştır. Ek olarak, CodeLikeAGirl ve Kadın Yazılımcı bloglarında olabildiğince aktif bir şekilde yazılar yazmaktadır. 
 
 | No | Tarih | Söyleşi Konuşmacı |
 |:--- |:--- |:--- |
@@ -185,10 +179,9 @@ Gamze Boz, ODTÜ'den Bilgisayar Mühendisliği Lisans Derecesi ile mezun oldu. �
 | 3  | 19.03.2019, Salı | [Elif T. Kuş](#elif-t-ku%C5%9F) |
 | 4  | 25.03.2019, Pazartesi | [Büşra Deniz Akın](#büşra-deniz-akın) |
 | 5  | 01.04.2019, Pazartesi | [Yeşim Başaran](#yeşim-başaran) |
-| 6 seans 1  | 06.04.2019, Cumartesi | [Kadriye Doğan](#kadriye-doğan) |
+| 6  | 06.04.2019, Cumartesi | [Ayşe Bilge Gündüz](#ayşe-bilge-gündüz)  |
 | 7  | 08.04.2019, Pazartesi | [Pınar Yanardağ](#pınar-yanardağ) |
 | 8  | 11.04.2019, Perşembe | [Gamze Boz](#gamze-boz) |
-| 6 seans 2 | 20.04.2019, Cumartesi | Ayşe Bilge Gündüz  |
 | 9  | 29.04.2019, Pazartesi | Pınar Soyata |
 | 10 | 02.05.2019, Perşembe | [Dilek Duman](#dilek-duman) |
 
@@ -196,7 +189,7 @@ Söyleşiler etkinliklerin son 40 dakikası gerçekleşecektir. Yeni konuşmacı
 
 [[^]](#i%C3%A7erik "Sayfa Başına Git")
 
-### Eğitim Konuşmacımız
+## Eğitim Konuşmacımız
 
 Etkinliklerin ilk bir buçuk saati eğitim ile geçecektir. Eğitmenleri şu şekilde listeleyebiliriz. 
 
@@ -204,6 +197,11 @@ Etkinliklerin ilk bir buçuk saati eğitim ile geçecektir. Eğitmenleri şu şe
 2001 senesinden bu yana aktif olarak yazılım geliştiren bir bilgisayar mühendisidir. Kariyeri boyunca onlarca kurumsal firmaya danışmanlık vermiş, eBay, Sony, ACM ve iyzico'da yazılım mimarı, yazılım ustası, teknik lider, takım lideri, teknik koordinator, Scrum Master ve agile koç olarak görev almıştır. Yazılım takımlarında yazılım kültürün kurulması, devamı ve sürdürülebilirliği konularında liderlik etmiştir. 2018 yılı içerisinde Hakan Erdoğan ve Sabri Onur Tüzün ile birlikte Craftbase’i kurmuştur. Halen sektör için kritik öneme sahip yazılımlar geliştirmeye devam etmektedir. 
 
 [[^]](#i%C3%A7erik "Sayfa Başına Git")
+
+## TDD Atölyesi Mentörleri
+
+### [Umut Işık](https://www.linkedin.com/in/isikumut/)
+Umut Işık Orta Doğu Teknik Üniversitesi bilgisayar mühendisliği bölümü mezunudur. 2001 yılından beri devam eden iş hayatında birçok farklı projede çalıştı. Kariyerinin son yıllarında ellerini kirletmeyi bırakmadan ekip yöneticiliği yapmaya çalışıyor. Bilgi paylaşmanın hayatta insanın sahip olacağı en önemli erdem olduğuna inanıyor ve paylaşımın iki tarafında da olmayı ihmal etmemeye çalışıyor.
 
 ## Etkinlik Sonrası Görevler
 
@@ -242,6 +240,10 @@ Etkinlik takviminde 6. hafta olarak belirtilen ve katılım sayısına göre 2 s
 * [**Craftbase**](https://craftbase.io)
 * [**Prisync**](https://prisync.com/)
 * [**Safkan Yazılım**](https://www.safkanyazilim.com)
+* [**Trendyol**](http://www.trendyol.com)
+
+### Coderetreat Sponsorlarımız
+* [**Trendyol**](http://www.trendyol.com)
 
 ### Media Sponsorumuz:
 * [**Sherpa Blog**](https://sherpa.blog)
@@ -264,7 +266,7 @@ Ana destekçilerimiz etkinlikler boyunca bizimle olacaklar. Katılımcılarımı
 ### Destekçi Topluluklar
 
 * [DevNot](http://devnot.com)
-* [Istanbul Jug](https://istanbul-jug.org)
+* [Istanbul Jug](http://javausergroup.istanbul)
 * [Kodluyoruz Derneği](https://www.kodluyoruz.org/)
 
 [[^]](#i%C3%A7erik "Sayfa Başına Git")
@@ -289,4 +291,4 @@ Tüm duyurular [SCTurkey'in Twitter hesabından](https://twitter.com/scturkey) g
 
 ## Etkinliklerden Görüntüler
 
-[Google Photos Albümümüzden](https://photos.app.goo.gl/HrgM5QFDWSX4Vg8U8) etkinliklerin resimlere erişebilirsiniz.
+[Google Photos Albümümüzden](https://photos.app.goo.gl/HrgM5QFDWSX4Vg8U8) etkinliklerin fotoğraflarına erişebilirsiniz.
