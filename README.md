@@ -182,7 +182,7 @@ Yüksek Lisansını İstanbul Teknik Üniversitesi'nde tamamladı ve ardından Y
 | 6  | 06.04.2019, Cumartesi | [Ayşe Bilge Gündüz](#ayşe-bilge-gündüz)  |
 | 7  | 08.04.2019, Pazartesi | [Pınar Yanardağ](#pınar-yanardağ) |
 | 8  | 11.04.2019, Perşembe | [Gamze Boz](#gamze-boz) |
-| 9  | 29.04.2019, Pazartesi | Pınar Soyata |
+| 9  | 29.04.2019, Pazartesi | |
 | 10 | 02.05.2019, Perşembe | [Dilek Duman](#dilek-duman) |
 
 Söyleşiler etkinliklerin son 40 dakikası gerçekleşecektir. Yeni konuşmacılarımız önümüzdeki günlerde duyurulacaktır.
