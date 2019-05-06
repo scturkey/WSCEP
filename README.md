@@ -1,3 +1,11 @@
+```
+Kadın Yazılımcı Destekleme Programı birinci sezonunu 100+ katılımcı ve 10 etkinlik ile tamamlamıştır. 
+Tüm sponsorlarımıza, destekçilerimize, eğitmen, fasilitör ve konuşmacılarımıza, ve en önemlisi
+harika enerjileri ile tüm katılımcılarımıza çok teşekkür ederiz.
+
+Sezon 2'de görüşmek üzere..
+```
+
 # SCTurkey Kadın Yazılımcı Destekleme Programı, Sezon 1
 
 _Her fırtına bir damla yağmur ile başlar..._
